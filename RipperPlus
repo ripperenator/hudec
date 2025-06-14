@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0, FOX EN TUBI TUBITV
-https://aegis-fastly.tubi.video/dfae948f-82c1-4c9a-80d4-223265b74564/playlist720p.m3u8
 #EXTINF:0, COPS en Español PLEX
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc/variant.m3u8?x-plex-token=vysC8Lykw4YX9y266cQ6&x-plex-advertising-identifier=&x-plex-client-identifier=209e17c6-1db5-4637-9597-a4ce6b8cd0a9&x-plex-playback-id=p_68a49f68-3d6e-43b8-b365-773b773af66d&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=macOS&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=137.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1749852339&url=2f119a37d7b522f6de17422846b6d95f-0abb14ab61b77ea4a2e6122eb6ee50a7765f995f1a1b41ca4233831393fd274699d723f0a9151460a6d6c8a5e3556e9534550563122c89d9fe82336bb7bb8aafc07b34414a4f66dd7d153e14e63a5a95d003ede744f29e8b2182cd92063bfe94f3cc3e2578cc8c34005534cf95ff4d1e8fbde3d1c78230c7a497dda27bf71d1ff207c8cee90cca269870f3c7512b43a4b7c5d30fa77435fb9896e9b6b3c8814144a9ceb71bc34fd703846835db0bd3155f0d4bfe43e9761aa97c13f0b3cffc3ad3360d9be8f572a69290de3bfadfecc6
 #EXTINF:0, Ideas En 5 Minutos PLEX
