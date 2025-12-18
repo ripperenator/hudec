@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, UNIVERSAL CRIME
+#EXTINF:58, UNIVERSAL CRIME
 http://clubtv.link/16dici/phpcode/lista0.php?c=32&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, UNIVERSAL CINEMA
 http://clubtv.link/16dici/phpcode/lista0.php?c=36&token=tecnotokenplustv&f=.m3u8
@@ -35,12 +35,8 @@ http://clubtv.link/16dici/phpcode/lista0.php?c=50&token=tecnotokenplustv&f=.m3u8
 http://clubtv.link/16dici/phpcode/lista0.php?c=49&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, DISCOVERY CHANNEL
 http://clubtv.link/16dici/phpcode/lista0.php?c=47&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, DISCOVERY TURBO
-http://clubtv.link/16dici/phpcode/lista0.php?c=80&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, HISTORY CHANNEL
 http://clubtv.link/16dici/phpcode/lista0.php?c=19&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, NATGEO
-http://clubtv.link/16dici/phpcode/lista0.php?c=15&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, DISCOVERY ID
 http://clubtv.link/16dici/phpcode/lista0.php?c=18&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, DISCOVERY H&H
@@ -59,8 +55,6 @@ http://clubtv.link/16dici/phpcode/lista0.php?c=27&token=tecnotokenplustv&f=.m3u8
 http://clubtv.link/16dici/phpcode/lista0.php?c=3&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, SONY
 http://clubtv.link/16dici/phpcode/lista0.php?c=11&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, ANIMAL PLANET
-http://clubtv.link/16dici/phpcode/lista0.php?c=56&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, A&E
 http://clubtv.link/16dici/phpcode/lista0.php?c=58&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, WARNER
@@ -73,12 +67,6 @@ http://clubtv.link/16dici/phpcode/lista0.php?c=37&token=tecnotokenplustv&f=.m3u8
 http://clubtv.link/16dici/phpcode/lista0.php?c=68&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, STUDIO UNIVERSAL
 http://clubtv.link/16dici/phpcode/lista0.php?c=70&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, CLARO CINEMA
-http://clubtv.link/16dici/phpcode/lista0.php?c=83&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, CINE LATINO
-http://clubtv.link/16dici/phpcode/lista0.php?c=84&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, CINE DINAMITA
-http://clubtv.link/16dici/phpcode/lista0.php?c=85&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, AZTECA UNO
 http://clubtv.link/16dici/phpcode/lista0.php?c=1&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, AZTECA 7
@@ -99,12 +87,8 @@ http://clubtv.link/16dici/phpcode/lista0.php?c=42&token=tecnotokenplustv&f=.m3u8
 http://clubtv.link/16dici/phpcode/lista0.php?c=34&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, Universal Reality
 http://clubtv.link/16dici/phpcode/lista0.php?c=34&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, Hbo 2
-http://clubtv.link/16dici/phpcode/lista0.php?c=23&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, Studio Universal
 https://mx1.gt-app.com70&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0,Los Simpson
-http://clubtv.link/16dici/phpcode/24.php?c=simpson_maniahd193&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0,a neflix01
 http://clubtv.link/16dici/phpcode/24.php?c=a_neflix01&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0,cinemundo plus
@@ -219,28 +203,14 @@ http://clubtv.link/16dici/phpcode/lista.php?c=5e67d41b93312100076f3fca&token=tec
 http://clubtv.link/16dici/phpcode/lista.php?c=5e8397936791b30007ebb5a7&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, Estrellas de Acción
 http://clubtv.link/16dici/phpcode/lista.php?c=5e972a21ad709d00074195ba&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, MTV Ridiculousness
-http://clubtv.link/16dici/phpcode/lista.php?c=5e98a911c881310007d7aae2&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, The New Detectives
 http://clubtv.link/16dici/phpcode/lista.php?c=5ea71d48af1d0b0007d837f4&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, People are Awesome
-http://clubtv.link/16dici/phpcode/lista.php?c=5ebac65911406400078b8993&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, The Pet Collective
-http://clubtv.link/16dici/phpcode/lista.php?c=5ebacbcae43a6d000787b88e&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, FailArmy
-http://clubtv.link/16dici/phpcode/lista.php?c=5ebaccf1734aaf0007142c86&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, Wipe Out
-http://clubtv.link/16dici/phpcode/lista.php?c=5ed6828192e8b3000743ef61&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, Archivos Forenses
 http://clubtv.link/16dici/phpcode/lista.php?c=5efb8c19b2678b000780d032&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, Misterios Medicos
 http://clubtv.link/16dici/phpcode/lista.php?c=5f230e416b68ff00075b0139&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, Empeños a lo bestia
-http://clubtv.link/16dici/phpcode/lista.php?c=5f23102d5e239d00074b092a&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, Pluto TV Sci-Fi
 http://clubtv.link/16dici/phpcode/lista.php?c=5f2817d3d7573a00080f9175&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, Historias de Ultratumba
-http://clubtv.link/16dici/phpcode/lista.php?c=5f4d3696d938c900072679fd&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, Paisajes por Stingray
 http://clubtv.link/16dici/phpcode/lista.php?c=5f4fed840a2764000720d966&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, Misterios sin Resolver
@@ -253,16 +223,10 @@ http://clubtv.link/16dici/phpcode/lista.php?c=5f85cf621d6d2200079f1de0&token=tec
 http://clubtv.link/16dici/phpcode/lista.php?c=5f998c1fc54853000797bacd&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, Nosey Escándalos
 http://clubtv.link/16dici/phpcode/lista.php?c=5f9afb01816137000737f799&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, MTV Pluto TV
-http://clubtv.link/16dici/phpcode/lista.php?c=5fab088b3279760007d4e4fd&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, Pluto TV Filmstream
-http://clubtv.link/16dici/phpcode/lista.php?c=5fcea359e533cb0007215c71&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, El Encantador de Perros
 http://clubtv.link/16dici/phpcode/lista.php?c=61099f2b40d0640007fc5aa2&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, Cazador de Homicidas
 http://clubtv.link/16dici/phpcode/lista.php?c=6109a9f5531b840007a4a187&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, Iron Chef
-http://clubtv.link/16dici/phpcode/lista.php?c=615b9855c6b58b000724477f&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, Rock Story
 http://clubtv.link/16dici/phpcode/lista.php?c=61f159209fcc3800076ed4a1&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0,Stingray Classic Rock
