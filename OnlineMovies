@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:0, Sherlock Holmes (2009)
-https://downloads.rainbowda.sh/movies/Sherlock%20Holmes%20%282009%29/Sherlock%20Holmes%20%282009%29%20Bluray-1080p.mkv
-#EXTINF:0, Sherlock Holmes A Game of Shadows (2011)
-https://downloads.rainbowda.sh/movies/Sherlock%20Holmes%20A%20Game%20of%20Shadows%20%282011%29/Sherlock%20Holmes%20A%20Game%20of%20Shadows%20%282011%29%20Bluray-1080p.mkv
-#EXTINF:0, Se7en (1995)
-https://downloads.rainbowda.sh/movies/Se7en%20%281995%29/Se7en%20%281995%29%20Bluray-1080p.mkv
 #EXTINF:0, 8MM 1999
 http://144.217.70.79/VODS-M/1080P/8MM%201999.mkv
 #EXTINF:0, Teen Wolf
@@ -120,7 +114,4 @@ http://144.217.70.79/VODS-M/1080P/Final%20Destination%203%202006.mkv
 http://144.217.70.79/VODS-M/1080P/Final%20Destination%204%202009.mkv
 #EXTINF:0, Final Destination 5 2011
 http://144.217.70.79/VODS-M/1080P/Final%20Destination%205%202011.mkv
-#EXTINF:0, The Thing 1982
-https://downloads.rainbowda.sh/movies/The%20Thing%20%281982%29/The%20Thing%20%281982%29%20Bluray-1080p.mkv
-#EXTINF:0, Hackers (1995)
-https://downloads.rainbowda.sh/movies/Hackers%20%281995%29/Hackers%20%281995%29%20Bluray-1080p.mkv
+
