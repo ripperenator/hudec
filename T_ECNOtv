@@ -75,34 +75,17 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:20,Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
+#EXTINF:0,------------TECNOTV---------
 
-------------TECNOTV---------
-
-#EXTINF:0, UNIVERSAL CRIME
-http://clubtv.link/30dici/phpcode/lista0.php?c=32&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, UNIVERSAL CINEMA
 http://clubtv.link/30dici/phpcode/lista0.php?c=36&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, UNIVERSAL PREMIER
-http://clubtv.link/30dici/phpcode/lista0.php?c=31&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, UNIVERSAL REALITY
-http://clubtv.link/30dici/phpcode/lista0.php?c=35&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, UNIVERSAL CHANNEL
-http://clubtv.link/30dici/phpcode/lista0.php?c=38&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, HBO PLUS
-http://clubtv.link/30dici/phpcode/lista0.php?c=21&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, HBO
-http://clubtv.link/30dici/phpcode/lista0.php?c=24&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, HBO FAMILY
-http://clubtv.link/30dici/phpcode/lista0.php?c=22&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, HBO SIGNATURE
-http://clubtv.link/30dici/phpcode/lista0.php?c=20&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, HBO XTREME
+#EXTINF:58, HBO XTREME
 http://clubtv.link/30dici/phpcode/lista0.php?c=16&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, AXN
+#EXTINF:58, AXN
 http://clubtv.link/30dici/phpcode/lista0.php?c=55&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, SPACE
 http://clubtv.link/30dici/phpcode/lista0.php?c=10&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, TNT
+#EXTINF:59, TNT
 http://clubtv.link/30dici/phpcode/lista0.php?c=6&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, TNT SERIES
 http://clubtv.link/30dici/phpcode/lista0.php?c=5&token=tecnotokenplustv&f=.m3u8
@@ -110,14 +93,8 @@ http://clubtv.link/30dici/phpcode/lista0.php?c=5&token=tecnotokenplustv&f=.m3u8
 http://clubtv.link/30dici/phpcode/lista0.php?c=57&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, CINECANAL
 http://clubtv.link/30dici/phpcode/lista0.php?c=50&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, CINEMAX
+#EXTINF:59, CINEMAX
 http://clubtv.link/30dici/phpcode/lista0.php?c=49&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, DISCOVERY CHANNEL
-http://clubtv.link/30dici/phpcode/lista0.php?c=47&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, DISCOVERY TURBO
-http://clubtv.link/30dici/phpcode/lista0.php?c=80&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, HISTORY CHANNEL
-http://clubtv.link/30dici/phpcode/lista0.php?c=19&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, NATGEO
 http://clubtv.link/30dici/phpcode/lista0.php?c=15&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, DISCOVERY ID
