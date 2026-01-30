@@ -76,92 +76,192 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
 #EXTINF:0,------------TECNOTV---------
-
-#EXTINF:0, UNIVERSAL CINEMA
-http://clubtv.link/30dici/phpcode/lista0.php?c=36&token=tecnotokenplustv&f=.m3u8
-#EXTINF:58, HBO XTREME
-http://clubtv.link/30dici/phpcode/lista0.php?c=16&token=tecnotokenplustv&f=.m3u8
-#EXTINF:58, AXN
-http://clubtv.link/30dici/phpcode/lista0.php?c=55&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, SPACE
-http://clubtv.link/30dici/phpcode/lista0.php?c=10&token=tecnotokenplustv&f=.m3u8
-#EXTINF:59, TNT
-http://clubtv.link/30dici/phpcode/lista0.php?c=6&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, TNT SERIES
-http://clubtv.link/30dici/phpcode/lista0.php?c=5&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, AMC
-http://clubtv.link/30dici/phpcode/lista0.php?c=57&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, CINECANAL
-http://clubtv.link/30dici/phpcode/lista0.php?c=50&token=tecnotokenplustv&f=.m3u8
-#EXTINF:59, CINEMAX
-http://clubtv.link/30dici/phpcode/lista0.php?c=49&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, NATGEO
-http://clubtv.link/30dici/phpcode/lista0.php?c=15&token=tecnotokenplustv&f=.m3u8
 #EXTINF:0, DISCOVERY ID
 http://clubtv.link/30dici/phpcode/lista0.php?c=18&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, DISCOVERY H&H
-http://clubtv.link/30dici/phpcode/lista0.php?c=46&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, GOLDEN PLUS
-http://clubtv.link/30dici/phpcode/lista0.php?c=26&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, GOLDEN PREMIER
-http://clubtv.link/30dici/phpcode/lista0.php?c=25&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, PARAMOUNT CHANNEL
-http://clubtv.link/30dici/phpcode/lista0.php?c=12&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, SYFY
-http://clubtv.link/30dici/phpcode/lista0.php?c=9&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, FX
-http://clubtv.link/30dici/phpcode/lista0.php?c=27&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, UNIVISION
-http://clubtv.link/30dici/phpcode/lista0.php?c=3&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, SONY
-http://clubtv.link/30dici/phpcode/lista0.php?c=11&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, ANIMAL PLANET
-http://clubtv.link/30dici/phpcode/lista0.php?c=56&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, A&E
-http://clubtv.link/30dici/phpcode/lista0.php?c=58&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, WARNER
-http://clubtv.link/30dici/phpcode/lista0.php?c=2&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, TELEMUNDO
-http://clubtv.link/30dici/phpcode/lista0.php?c=7&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, LIFE TIME
-http://clubtv.link/30dici/phpcode/lista0.php?c=33&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, STAR CHANNEL
-http://clubtv.link/30dici/phpcode/lista0.php?c=37&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, UNIVERSO
-http://clubtv.link/30dici/phpcode/lista0.php?c=68&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, STUDIO UNIVERSAL
-http://clubtv.link/30dici/phpcode/lista0.php?c=70&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, AZTECA UNO
-http://clubtv.link/30dici/phpcode/lista0.php?c=1&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, AZTECA 7
-http://clubtv.link/30dici/phpcode/lista0.php?c=54&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, CANAL 5
-http://clubtv.link/30dici/phpcode/lista0.php?c=52&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, DE PELICULA
-http://clubtv.link/30dici/phpcode/lista0.php?c=48&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, LAS ESTRELLAS
-http://clubtv.link/30dici/phpcode/lista0.php?c=17&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, Az Cinema
-http://clubtv.link/30dici/phpcode/lista0.php?c=89&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, Az Corazon
-http://clubtv.link/30dici/phpcode/lista0.php?c=88&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, Distrito Comedia
-http://clubtv.link/30dici/phpcode/lista0.php?c=42&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, Universal Comedy
-http://clubtv.link/30dici/phpcode/lista0.php?c=34&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, Universal Reality
-http://clubtv.link/30dici/phpcode/lista0.php?c=34&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, Hbo 2
-http://clubtv.link/30dici/phpcode/lista0.php?c=23&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0, Studio Universal
-https://mx1.gt-app.com70&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0,cinemundo plus
-http://clubtv.link/30dici/phpcode/24.php?c=cinemundo_plus&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0,peliculas mania
-http://clubtv.link/30dici/phpcode/24.php?c=peliculas_mania&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0,terror mania
-http://clubtv.link/30dici/phpcode/24.php?c=terror_mania&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0,cienciaficcion
-http://clubtv.link/30dici/phpcode/24.php?c=cienciaficcion&token=tecnotokenplustv&f=.m3u8
-#EXTINF:0,cienciaficcion01
-http://clubtv.link/30dici/phpcode/24.php?c=cienciaficcion01&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:22,HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch22&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch4&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch10&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,SONY
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch6&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,SPACE
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch1&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,A&E
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch3&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch22&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch20&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,PARAMOUNT
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch19&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch21&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,BOX CINEMA
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/distro.php?c=box-cinema
+#EXTINF:0,RunTime
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/runtime.php?c=2154
+#EXTINF:0,Accion
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/runtime.php?c=2550
+#EXTINF:0,Comedia
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/runtime.php?c=2551
+#EXTINF:0,Crimen
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/runtime.php?c=3533
+#EXTINF:0,Cine Espanto
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/runtime.php?c=6126
+#EXTINF:0,Cinema
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/runtime.php?c=2550
+#EXTINF:0, Las Estrellas
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
+#EXTINF:0, AZ UNO
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:0, AZ 7
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:0, MULTIMEDIOS MTY
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0, ESTRELLA TV
+#EXTVLCOPT:network-caching=1000
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:0, AZTECA 7.2
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:0, ADN40
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0, ADN 40
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0,Clic	
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/runtime.php?c=4827
+#EXTINF:0,Imagen TV
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/runtime.php?c=6149
+#EXTINF:0,TNT SPORT
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch26&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,TYC SPORT
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch32&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,FOX SPORT
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch16&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,FOX SPORT 2
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch30&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,FOX SPORT 3
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch31&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,ESPN PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch42&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch9&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,TYC SPORT
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch9&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch29&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,H&H
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch23&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,NATGEO
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch5&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,FOX SPORT 3
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch2&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,DISCOVERY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch15&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,HISTORY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/2401en/phpcode/ssiptv.php?c=ch7&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,RETRO TV
+#EXTVLCOPT:network-caching=1000
+http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/retro&token=tecnotokenplustv&f=.m3u8
+#EXTINF:0,70-80 TV (1080P)
+#EXTVLCOPT:network-caching=1000
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:0,Stingray Classic Rock
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Hot Country
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Nothin' But 90s
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Remember the 80s
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Rock Alternative
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0, Retro Plus TV Señal 2
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+#EXTINF:0, Flash - Freetv.com
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
+#EXTINF:0, MMC - Freetv.com
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
+#EXTINF:0, Retro Music Television
+#EXTVLCOPT:network-caching=1000
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:0, The Retro Channel
+#EXTVLCOPT:network-caching=1000
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:0, Vintage Music
+#EXTVLCOPT:network-caching=1000
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+#EXTINF:0, Retro Plus TV
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:0, Retro Plus TV Señal 2
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+#EXTINF:0, Retro Plus TV Señal 3
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+#EXTINF:0, Retro Plus
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:0, Retro Plus TV Señal 2
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+#EXTINF:0, Retro Plus TV Señal 3
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+#EXTINF:0, Ruidos FM
+#EXTVLCOPT:network-caching=1000
+https://tv1.ruidosfm.cl/ruidosfm/stream.m3u8
+#EXTINF:0, Eternal Metal
+#EXTVLCOPT:network-caching=1000
+https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8
