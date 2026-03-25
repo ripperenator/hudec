@@ -1,164 +1,33 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="90s Throwback" group-title="PLUTO USA", 90s Throwback
-https://stitcher.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="80s Rewind" group-title="PLUTO USA", 80s Rewind
-https://stitcher.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="70s Cinema" group-title="PLUTO USA", 70s Cinema
-https://stitcher.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Paramount Movie Channel" group-title="PLUTO USA", Paramount Movie Channel
-https://stitcher.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="MovieSphere by Lionsgate" group-title="PLUTO USA", MovieSphere by Lionsgate
-https://stitcher.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Sitcom Legends" group-title="PLUTO USA", Sitcom Legends
-https://stitcher.pluto.tv/stitch/hls/channel/633354b63df9700007f6a1b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Cheers + Frasier" group-title="PLUTO USA", Cheers + Frasier
-https://stitcher.pluto.tv/stitch/hls/channel/66ba495ffe11e5000881f049/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Cheaters" group-title="PLUTO USA", Cheaters
-https://stitcher.pluto.tv/stitch/hls/channel/627d355aa95efd00077afcc7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Cine Premiere" group-title="PLUTO USA CINE", Cine Premiere
-https://stitcher.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Cine en español" group-title="PLUTO USA CINE", Cine en español
-https://stitcher.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Cine Clásico" group-title="PLUTO USA CINE", Cine Clásico
-https://stitcher.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Pelis y Popcorn" group-title="PLUTO USA CINE", Pelis y Popcorn
-https://stitcher.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Cine adrenalina" group-title="PLUTO USA CINE", Cine adrenalina
-https://stitcher.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Cine terror" group-title="PLUTO USA CINE", Cine terror
-https://stitcher.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Cine ¡¡jaja!!" group-title="PLUTO USA CINE", Cine ¡¡jaja!!
-https://stitcher.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Cine XOXO" group-title="PLUTO USA CINE", Cine XOXO
-https://stitcher.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Hallmark en español" group-title="PLUTO USA CINE", Hallmark en español
-https://stitcher.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="TuWarner" group-title="PLUTO USA SERIES", TuWarner
-https://stitcher.pluto.tv/stitch/hls/channel/6732497f3a61d400087a53b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Series con Ñ" group-title="PLUTO USA SERIES", Series con Ñ
-https://stitcher.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="CBS en español" group-title="PLUTO USA SERIES", CBS en español
-https://stitcher.pluto.tv/stitch/hls/channel/668c5cb4f01dbe0008dd4082/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="CSI en Español" group-title="PLUTO USA SERIES", CSI en Español
-https://stitcher.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="CSI: Miami en español" group-title="PLUTO USA SERIES", CSI: Miami en español
-https://stitcher.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="CSI: NY en español" group-title="PLUTO USA SERIES", CSI: NY en español
-https://stitcher.pluto.tv/stitch/hls/channel/632b606e12a67b0007c9e371/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="The Walking Dead en español" group-title="PLUTO USA SERIES", The Walking Dead en español
-https://stitcher.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="AMC en español" group-title="PLUTO USA SERIES", AMC en español
-https://stitcher.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Spike ¡extremo!" group-title="PLUTO USA GENERAL", Spike ¡extremo!
-https://stitcher.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Acapulco Shore" group-title="PLUTO USA Reality", Acapulco Shore
-https://stitcher.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="La Familia del Barrio" group-title="PLUTO USA GENERAL", La Familia del Barrio
-https://stitcher.pluto.tv/stitch/hls/channel/668c566d08d5490008075948/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Comedy Central en español" group-title="PLUTO USA GENERAL", Comedy Central en español
-https://stitcher.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="EstrellaTV" group-title="PLUTO USA GENERAL", EstrellaTV
-https://stitcher.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Casos de la Dra. Polo" group-title="PLUTO USA GENERAL", Casos de la Dra. Polo
-https://stitcher.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Nosey escándalos" group-title="PLUTO USA GENERAL", Nosey escándalos
-https://stitcher.pluto.tv/stitch/hls/channel/60492ee6375a3900079a158c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Sony Canal Escape Perfecto" group-title="PLUTO USA GENERAL", Sony Canal Escape Perfecto
-https://stitcher.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Hell's Kitchen en español" group-title="PLUTO USA COCINA", Hell's Kitchen en español
-https://stitcher.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Foodies" group-title="PLUTO USA COCINA", Foodies
-https://stitcher.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Mundo viajero" group-title="PLUTO USA DOCUMENTALES", Mundo viajero
-https://stitcher.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Vidas Extremas" group-title="PLUTO USA DOCUMENTALES", Vidas Extremas
-https://stitcher.pluto.tv/stitch/hls/channel/673249afc7626f0008c7205d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Construcciones Asombrosas" group-title="PLUTO USA DOCUMENTALES", Construcciones Asombrosas
-https://stitcher.pluto.tv/stitch/hls/channel/673249433a61d400087a51ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Mundo geek" group-title="PLUTO USA DOCUMENTALES", Mundo geek
-https://stitcher.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="TuDiscovery" group-title="PLUTO USA DOCUMENTALES", TuDiscovery
-https://stitcher.pluto.tv/stitch/hls/channel/673249ccc7626f0008c72076/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Sala de Emergencias: Historias Inéditas" group-title="PLUTO USA DOCUMENTALES", Sala de Emergencias: Historias Inéditas
-https://stitcher.pluto.tv/stitch/hls/channel/66ba53cda4ee2700083fac09/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Expedientes Sobrenaturales" group-title="PLUTO USA DOCUMENTALES", Expedientes Sobrenaturales
-https://stitcher.pluto.tv/stitch/hls/channel/6732495dc7626f0008c71e7d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Crimen" group-title="PLUTO USA CRIMEN", Crimen
-https://stitcher.pluto.tv/stitch/hls/channel/6732499ce40c4a0008bb9894/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Crímenes imperfectos" group-title="PLUTO USA CRIMEN", Crímenes imperfectos
-https://stitcher.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Misterios sin resolver" group-title="PLUTO USA CRIMEN", Misterios sin resolver
-https://stitcher.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Investiga" group-title="PLUTO USA CRIMEN", Investiga
-https://stitcher.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="CNN XPRESS" group-title="PLUTO USA NEWS", CNN XPRESS
-https://stitcher.pluto.tv/stitch/hls/channel/673248f9030a2c0008033af8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Estrella News" group-title="PLUTO USA NEWS", Estrella News
-https://stitcher.pluto.tv/stitch/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Euronews" group-title="PLUTO USA NEWS", Euronews
-https://stitcher.pluto.tv/stitch/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Vevo Íconos Latinos" group-title="PLUTO USA MUSIC", Vevo Íconos Latinos
-https://stitcher.pluto.tv/stitch/hls/channel/64d161c93c785e0008df575e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Vevo '70s" group-title="PLUTO USA MUSIC", Vevo '70s
-https://stitcher.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Vevo '80s" group-title="PLUTO USA MUSIC", Vevo '80s
-https://stitcher.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Vevo '90s" group-title="PLUTO USA MUSIC", Vevo '90s
-https://stitcher.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Vevo 2K" group-title="PLUTO USA MUSIC", Vevo 2K
-https://stitcher.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="CMT Equal Play" group-title="PLUTO USA MUSIC", CMT Equal Play
-https://stitcher.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="estXITE Classic Countryo" group-title="PLUTO USA MUSIC", XITE Classic Country
-https://stitcher.pluto.tv/stitch/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Vevo Country" group-title="PLUTO USA MUSIC", Vevo Country
-https://stitcher.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Vevo True School Hip-Hop" group-title="PLUTO USA MUSIC", Vevo True School Hip-Hop
-https://stitcher.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Vevo R&B" group-title="PLUTO USA MUSIC", Vevo R&B
-https://stitcher.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="Vevo Retro Rock" group-title="PLUTO USA MUSIC", Vevo Retro Rock
-https://stitcher.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="XITE Rock x Metal" group-title="PLUTO USA MUSIC", XITE Rock x Metal
-https://stitcher.pluto.tv/stitch/hls/channel/623a1b5188ecdc0007c9ef5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-
-
---- 📺 💥 ONLINE
-
-#EXTINF:-1 tvg-name="Mega Cine TV" tvg-logo="https://cdn.m3u.cl/logo/1055_Mega_Cine_TV.png" group-title="ONLINE",Mega Cine TV
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-#EXTINF:-1 tvg-name="Orbit TV" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="ONLINE",Orbit TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1 tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="ONLINE",+Cine
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
-#EXTINF:-1 tvg-name="+Cine Classic" tvg-logo="https://cdn.m3u.cl/logo/1653__Cine_Classic.png" group-title="ONLINE",+Cine Classic
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
-#EXTINF:-1 tvg-name="Cine Real - Freetv" tvg-logo="https://cdn.m3u.cl/logo/1272_Cine_Real___Freetv_com.png" group-title="ONLINE",Cine Real - Freetv
+#EXTINF:-1,Cine Real - Freetv
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
-#EXTINF:-1 tvg-name="Cine Sureño - Freetv" tvg-logo="https://cdn.m3u.cl/logo/1272_Cine_Real___Freetv_com.png" group-title="ONLINE",Cine Sureño - Freetv
+#EXTINF:-1,Cine Real - Freetv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
+#EXTINF:-1,Cine Sureño - Freetv
 https://amg01024-olympusat-cinesureno-ono-ad-h2.amagi.tv/playlist/amg01024-olympusat-cinesureno-ono/playlist.m3u8
-#EXTINF:-1 tvg-name="Horrorfy - Freetv" tvg-logo="https://cdn.m3u.cl/logo/1272_Cine_Real___Freetv_com.png" group-title="ONLINE",Horrorfy - Freetv
+#EXTINF:-1,Cine Sureño - Freetv
+https://amg01024-olympusat-cinesureno-ono-ad-h2.amagi.tv/playlist/amg01024-olympusat-cinesureno-ono/playlist.m3u8
+#EXTINF:-1,Horrorfy - Freetv
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
-#EXTINF:-1 tvg-name="Juntos - Freetv" tvg-logo="https://cdn.m3u.cl/logo/1272_Cine_Real___Freetv_com.png" group-title="ONLINE",Juntos - Freetv
+#EXTINF:-1,Horrorfy - Freetv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
+#EXTINF:-1,Juntos - Freetv
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
-#EXTINF:-1 tvg-name="Mi TV Clásica" tvg-logo="https://cdn.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" group-title="ONLINE",Mi TV Clásica
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
-#EXTINF:-1 tvg-name="Top Cine - Freetv" tvg-logo="https://cdn.m3u.cl/logo/1273_Top_Cine___Freetv_com.png" group-title="ONLINE",Top Cine - Freetv
+#EXTINF:-1,Juntos - Freetv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
+#EXTINF:-1,Top Cine - Freetv
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
-#EXTINF:-1 tvg-name="Tu Cine - Freetv" tvg-logo="https://cdn.m3u.cl/logo/1280_Tu_Cine___Freetv_com.png" group-title="ONLINE",Tu Cine - Freetv
+#EXTINF:-1,Top Cine - Freetv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
+#EXTINF:-1,Tu Cine - Freetv
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
-#EXTINF:-1 tvg-name="Dodo TV" tvg-logo="https://cdn.m3u.cl/logo/1622_Dodo_TV.png" group-title="ONLINE",Dodo TV
+#EXTINF:-1,Tu Cine - Freetv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
+#EXTINF:-1,Dodo TV
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="Opinionsur Cine" tvg-logo="https://cdn.m3u.cl/logo/1087_Opinionsur_Cine.png" group-title="ONLINE",Opinionsur Cine
-https://5790d294af2dc.streamlock.net/opinionsur/opinionsur/playlist.m3u8
-#EXTINF:-1 tvg-name="Spectrum Channel" tvg-logo="https://cdn.m3u.cl/logo/1058_Spectrum_Channel.png" group-title="ONLINE",Spectrum Channel
-https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
-#EXTINF:-1 tvg-name="Moni Tv" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="ONLINE",Moni Tv
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
-#EXTINF:-1 tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="ONLINE",VClassicTV
+#EXTINF:-1,Dodo TV
+https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
+#EXTINF:-1,VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-
-
-
-
+#EXTINF:-1,VClassicTV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
