@@ -1,10 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Hoppers: Operación castor" tvg-logo="https://image.tmdb.org/t/p/w300//xBiDlBcocGfb9NDHwQhNN6dvNdA.jpg" group-title="Movies",Hoppers: Operación castor
+https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/02/10997/ji5sb7wr72x1_x/index-v1-a1.m3u8?t=NaZEVogd2ifNMI2gYJ58UfaSqMg1ASUW__g0b93Bz74&s=1774977624&e=10800&f=54986929&srv=1055&asn=28409&sp=5500&p=0
+
 #EXTINF:-1,Dodo TV
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
 #EXTINF:-1, MegaCineTv
 https://mlb.essastream.com:8081/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-id="BOXCINEMA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/70ba7ca59223bc09b6d05514f64924ae.webp" group-title="Movies",BOX CINEMA
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/eee91ff3-cefa-448a-bce3-dae08b95be7e/1.m3u8
+#EXTINF:-1 tvg-id="TELECLASICA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="Movies",TELECLASICA
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/eee91ff3-cefa-448a-bce3-dae08b95be7e/1.m3u8
+
 #EXTINF:-1, LCDLF 1
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
 #EXTINF:-1, LCDLF 2
@@ -38,8 +46,6 @@ https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u
 #EXTINF:-1,Telemundo 51 Florida ᶠᴴᴰ 🇲🇽🇺🇸
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
-#EXTINF:-1 tvg-id="3ABNLatino.us@SD" tvg-logo="https://i.imgur.com/Ugb4AFo.png" group-title="Religious",3ABN Latino
-https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="70sCinema.us@SD" tvg-logo="https://i.imgur.com/mgXeEE4.png" group-title="Movies",70s Cinema
 https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
 #EXTINF:-1 tvg-id="80sRewind.us@SD" tvg-logo="https://i.imgur.com/nkEeYfI.png" group-title="Movies",80s Rewind
