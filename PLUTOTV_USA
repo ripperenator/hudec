@@ -2,7 +2,18 @@
 
 ==MOVIES==
 
-#EXTINF:-1 tvg-id="Manclar_television" tvg-logo="https://i.imgur.com/4uImWTP.png" group-title="Movies;Series", Manclar television
+#EXTINF:-1 tvg-id="Microvision" tvg-logo="https://i.imgur.com/zSR7lS8.png" group-title="Movies;Series", Microvision 🇩🇴
+https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1829688679.m3u8
+#EXTINF:-1 tvg-id="Colorvision" tvg-logo="https://i.imgur.com/HobQ8JX.png" group-title="Movies;Series", Colorvision 🇩🇴
+https://live.eu-north-1b.cf.dmcdn.net/sec2(bVDP5H0rQKD6T3q2dPvj_VZb7IciH5tmMdf1qK6ClEU9qLx8Wc-e5qeML-t9kZPvHj2XkIgx292-_dH7XLI_gdEiBzQvqcgGYjOqHJPnnIZCZ-0p2L4hkEgrJycqXUlT)/dm/3/x7gy059/d/live-480.m3u8#cell=lcf-eu-north-1b
+
+#EXTINF:-1 tvg-id="ConstanzaTV" tvg-logo="https://i.imgur.com/T4M2Yiw.png" group-title="Movies;Series", ConstanzaTV 🇩🇴
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
+#EXTINF:-1 tvg-id="Multivision" tvg-logo="https://i.imgur.com/r8sR14g.png" group-title="Movies;Series", Multivision 🇩🇴
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
+#EXTINF:-1 tvg-id="CVvision" tvg-logo="https://i.imgur.com/PlddX9X.png" group-title="Movies;Series", CVvision 🇩🇴
+https://eu1.servers10.com:8081/8128/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Manclar_television" tvg-logo="https://i.imgur.com/4uImWTP.png" group-title="Movies;Series", Manclar television 🇩🇴
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 #EXTINF:-1 tvg-id="Extrema_Cine_Accion_🇦🇷" tvg-logo="https://i.imgur.com/9SIlHiR.png" group-title="Movies;Series", Extrema Cine Accion 🇦🇷
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
@@ -167,8 +178,6 @@ http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
 #EXTINF:-1 tvg-id="TelemundoCorpusChristi.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="Entertainment",Telemundo Corpus Christi (720p)
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-#EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us@SD" tvg-logo="https://i.imgur.com/9bPcYIN.png" group-title="Entertainment",Telemundo telenovelas clásicas
-https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
 #EXTINF:-1 tvg-id="TeleOnce.pr@SD" tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="Entertainment",TeleOnce (1080p)
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCuatro41.mx@SD" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Entertainment",TV Cuatro 4.1 (1080p)
@@ -210,8 +219,6 @@ https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
 
 ==Cocina==
 
-#EXTINF:-1 tvg-id="MasterChef.us@Brazil" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="Series",MasterChefBrasil
-https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
 
 
 
@@ -227,11 +234,44 @@ https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
 
 
 
-==Varios==
 
 
-#EXTINF:-1, LCDLF 1
-https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
-#EXTINF:-1, LCDLF 2
-#EXTINF:-1, canal 13 La Rioja
-https://stream.arcast.net:4443/mp/mp/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
