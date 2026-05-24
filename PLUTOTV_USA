@@ -2,6 +2,7 @@
 
 ==PREMIUM==
 
+
 #EXTINF:-1 tvg-id="A&E_HD" tvg-logo="https://i.imgur.com/4qbyDv3_d.png?maxwidth=520&shape=thumb&fidelity=high" group-title="Premium",A&E HD
 http://181.224.200.5:2277/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.imgur.com/spVR5AI.png" group-title="Premium",ATV
@@ -52,9 +53,62 @@ http://181.224.200.5:2277/play/a01q/index.m3u8
 http://181.224.200.5:2277/play/a0ak/index.m3u8
 #EXTINF:-1 tvg-id="Warner_Channel_HD" tvg-logo="https://i.imgur.com/V0XUGMM.png" group-title="Premium",Warner Channel HD
 http://181.224.200.5:2277/play/a01g/index.m3u8
-
+#EXTINF:0,CGTN Español (1080p)
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 ==MOVIES==
+
+#EXTINF:0,Canal 5 TV Max (720p)
+https://video.wilohosting.com:19360/tvmax/tvmax.m3u8
+#EXTINF:0,Canal 8 C&C Producciones
+https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
+#EXTINF:0,Canal 10 (720p) [Not 24/7]
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
+#EXTINF:0,Canal 11 (1080p) [Not 24/7]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/
+#EXTINF:0,Canal 13 La Rioja (480p)
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:0,Cine adrenalina
+https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
+#EXTINF:0,Cine Amor
+https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
+#EXTINF:0,Cine aventura
+https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
+#EXTINF:0,Cine Clásico
+https://jmp2.uk/plu-64b9671cdac71b0008f371df.m3u8
+#EXTINF:0,Cine comedia
+https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
+#EXTINF:0,Cine Crimen
+https://jmp2.uk/plu-686c1c873ffa5e0c91a85938.m3u8
+#EXTINF:0,Cine en español
+https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
+#EXTINF:0,Cine Estrella (1080p)
+https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
+#EXTINF:0,Rakuten Documentários (1080p)
+https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8
+#EXTINF:0,Rakuten Família (1080p)
+https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
+#EXTINF:0,Rakuten TV Action Movies Spain (1080p)
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+#EXTINF:0,Rakuten TV Cine Español (1080p)
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+#EXTINF:0,Rakuten TV Comedy Movies Spain (1080p)
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+#EXTINF:0,Rakuten TV Crime Series Spain (1080p)
+https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
+#EXTINF:0,Rakuten TV Drama Movies Spain (1080p)
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+#EXTINF:0,Rakuten TV Family Movies Spain (1080p)
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+#EXTINF:0,Rakuten TV Romance Movies Spain (1080p)
+https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
+#EXTINF:0,Rakuten TV Sci-Fi Spain (1080p)
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+#EXTINF:0,Rakuten TV Thrillers Spain (1080p)
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
+#EXTINF:0,Rakuten TV Top Movies Spain (1080p)
+
+
 
 #EXTINF:-1 tvg-id="DTV" tvg-logo="https://imgur.com/z4h70BJ.png" group-title="Movies;Series",CANALDTVLATINO
 https://s.emisoras.tv:8081/dtv/tracks-v1a1/mono.ts.m3u8
@@ -256,7 +310,10 @@ https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-v
 https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="VevoCountry.us@SD" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="Music",Vevo Country (1080p)
 https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
-
+#EXTINF:0,Rock Antenne [Not 24/7]
+https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:0,Rock Classics (Radio) [Geo-blocked]
+http://80.79.6.221:25461/smash/public/24
 
 
 
