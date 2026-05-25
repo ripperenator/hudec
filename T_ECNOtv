@@ -1,3 +1,270 @@
 #EXTM3U
-#EXTINF:0,stream
-http://tecnotv.club/23mar/lista.m3u
+https://stream.zeno.fm/qvq7sm8mymzuv
+#EXTINF:102, Las Estrellas
+https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
+#EXTINF:36, MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:60, ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:102, AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:102, ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:29, 8 NTV
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8
+#EXTINF:102, ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0, Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8
+#EXTINF:0, Mexiquense TV
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:0, Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:0, Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:0, Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:0, Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0, RTQ Queretaro
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+#EXTINF:29, SIZART Canal 24 Zacatecas
+https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:0, Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0, TV4 MÉXICO
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+#EXTINF:0, TVP Culiacan
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:0, TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:0, TVP Mazatlan
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:0, TVP Obregon
+https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:0, AMX MÉXICO
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:0,BOX CINEMA
+http://tecnotv.club/s3f1/phpcode/distro.php?c=box-cinema
+#EXTINF:0,RunTime
+http://tecnotv.club/s3f1/phpcode/runtime.php?c=2154
+#EXTINF:0,Accion
+http://tecnotv.club/s3f1/phpcode/runtime.php?c=2550
+#EXTINF:0,Comedia
+http://tecnotv.club/s3f1/phpcode/runtime.php?c=2551
+#EXTINF:0,Crimen
+http://tecnotv.club/s3f1/phpcode/runtime.php?c=3533
+#EXTINF:0,Cine Espanto
+http://tecnotv.club/s3f1/phpcode/runtime.php?c=6126
+#EXTINF:0,Cinema
+http://tecnotv.club/s3f1/phpcode/runtime.php?c=2550
+#EXTINF:0,AZTECA 7
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a026&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,CANAL 27
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a05p&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,CANAL 5
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a05o&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Cartoon Network
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a029&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Claro Sports 3 HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a024&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,DE PELICULA
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a05n&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,DISTRITO COMEDIA
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a05l&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN  4 HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a028&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,FOX SPORT 2
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a001&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,LAS ESTRELLAS 2
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a05j&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,LAS ESTRELLAS LEGAL
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a02c&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,SKY SPORTS
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a05r&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,TELEMUNDO MIAMI
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a05m&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,TUDN
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a05q&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Discovery Kids
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a03l&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Disney JR
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0g1&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Disney channel
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0i8&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Canal 11 - GUA
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0jk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Canal 13-GUA
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0jj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Canal 3 - GUA
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0h5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Canal 7 - GUA
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0h4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Canal Antigua - GUA
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0h2&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Canal Azteca - GUA
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0h3&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Canal Guatevision - GUA
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0fw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Concert Channel
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a02r&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Claro Sports  HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0kz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN 2 HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a053&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN 3 HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a054&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN 5 HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0ix&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN 6 HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0kj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a052&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Telemundo HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0gv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Univision HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0kr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,AZ click HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0gz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Azcorazon
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0g6&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Azmundo
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0h8&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,DISCOVERY THEATHER HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0hv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Discovery Channel HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0kn&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Discovery ID HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0ks&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Discovery Turbo
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0ia&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Discovery World HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0kp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,El Gourmet
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a04v&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,FX HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0gw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,HBO Family HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0l5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,HBO HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0l2&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,HBO Plus HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0l4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,HBO XTREME HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0l6&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,HBO2 HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a00c&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,History 2
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0jp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,History Channel HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0gk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,SONY HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0hp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,SONY MOVIES HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a03s&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,STAR CHANNEL HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0hn&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,STAR LIFE
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0g4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,TNT HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0hu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,TNT Novelas
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0g9&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,TNT Series HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0km&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,UNIVERSAL CINEMA HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0kt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,UNIVERSAL COMEDY HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0i5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,UNIVERSAL CRIME HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0i4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,UNIVERSAL PREMIERE HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0i1&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,UNIVERSAL PREMIERE O HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0i2&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,UNIVERSAL REALITY HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0i3&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,A&E HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0gt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,AMC HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0gu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,AXN HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0iy&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Animal Planet HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0gq&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,CINECANAL HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0hq&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,CNN Español
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0gi&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Canal Claro
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0fv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Cine Latino
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0ik&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,CineMax
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0il&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,DHE HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0gy&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,E! Entertairment HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0gr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Film & arts HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0gs&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Golden
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0jv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,HOLA! TV HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0hx&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Home & Health HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0hw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,LIFE TIME
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0gb&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Multipremier
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0ij&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Nat Geo HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0kk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,SPACE HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0iz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Star TVE HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0h0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,TCM
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0jw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,TLC
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0hh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,TVE
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a04y&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Universal
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0ih&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,WARNER HD
+http://tecnotv.club/s3f1/phpcode/ssiptv.php?c=a0ho&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0, Retro Music Television
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:0, + Listas en M3U.CL
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
+#EXTINF:0, Retro Plus TV
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:0, Retro Plus TV Señal 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+#EXTINF:0, Retro Plus TV Señal 3
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+#EXTINF:0, Retro Plus
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:0, Retro Plus TV Señal 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+#EXTINF:0, Retro Plus TV Señal 3
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+#EXTINF:0, Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:12, Canal 13 La Rioja
+https://stream.arcast.net:4443/mp/mp/playlist.m3u8
+#EXTINF:36, Canal 21 Misiones
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
