@@ -55,6 +55,8 @@ http://181.224.200.5:2277/play/a0ak/index.m3u8
 http://181.224.200.5:2277/play/a01g/index.m3u8
 #EXTINF:0,CGTN Español (1080p)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="El_Trece_Satelital" tvg-logo="https://i.imgur.com/30pqDY9.png" group-title="Premium",El Trece Satelital
+http://45.5.151.147:8000/play/a00f/index.m3u8
 
 ==MOVIES==
 
