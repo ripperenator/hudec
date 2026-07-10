@@ -1,31 +1,33 @@
 #EXTM3U
-#EXTINF:-1, Crímenes Reales
+#EXTINF:-1,Crímenes Reales
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/playlist.m3u8?ads_amagi_channel=989&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=16&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6735&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=4d6e2fc3-3c83-48c8-b108-d5f7b642ff10&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1, ADN40
+#EXTINF:-1,ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1, Retro Plus TV Señal 2
+#EXTINF:-1,Retro Plus TV Señal 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
-#EXTINF:-1, Retro Plus TV Señal 3
+#EXTINF:-1,Retro Plus TV Señal 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
-#EXTINF:-1, CanaTv
+#EXTINF:-1,CanaTv
 https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
-#EXTINF:-1, SONY CINE
+#EXTINF:-1,SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
-#EXTINF:-1, OrbitTv
+#EXTINF:-1,OrbitTv
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Telever canal 12
+#EXTINF:-1,ORBIT TV (1080p)
+https://edge.essastream.com/orbittv/index.m3u8
+#EXTINF:-1,Telever canal 12
 https://soportedvb.click:3413/live/televerlive.m3u8
-#EXTINF:-1, MegaCineTv
+#EXTINF:-1,MegaCineTv
 https://mlb.essastream.com:8081/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Dodo TV
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
-#EXTINF:-1, Vevo Retro Rock
+#EXTINF:-1,Vevo Retro Rock
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-#EXTINF:-1, NOW 70s
+#EXTINF:-1,NOW 70s
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1, NOW 80s
+#EXTINF:-1,NOW 80s
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1, NOW Rock
+#EXTINF:-1,NOW Rock
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
 #EXTINF:-1,Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
