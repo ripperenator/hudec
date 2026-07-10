@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
 
-
+#EXTINF:20,ORBIT TV (1080p)
+https://edge.essastream.com/orbittv/index.m3u8
 #EXTINF:102, Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:30, Las Estrellas (excepto pelis)
