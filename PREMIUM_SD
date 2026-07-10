@@ -1,63 +1,65 @@
 #EXTM3U
-#EXTINF:-1, LCDLF 1
+#EXTINF:-1,LCDLF 1
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
-#EXTINF:-1, LCDLF 1
+#EXTINF:-1,LCDLF 1
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
-#EXTINF:-1, LCDLF 2
+#EXTINF:-1,LCDLF 2
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
-#EXTINF:-1, LCDLF 2
+#EXTINF:-1,LCDLF 2
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
-#EXTINF:-1, canal 13 La Rioja
+#EXTINF:-1,ORBIT TV (1080p)
+https://edge.essastream.com/orbittv/index.m3u8
+#EXTINF:-1,canal 13 La Rioja
 https://stream.arcast.net:4443/mp/mp/playlist.m3u8
-#EXTINF:-1, canal 13 La Rioja
+#EXTINF:-1,canal 13 La Rioja
 https://stream.arcast.net:4443/mp/mp/playlist.m3u8
-#EXTINF:-1, Cine Sony
+#EXTINF:-1,Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1, Cine Sony
+#EXTINF:-1,Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1, My Time Movie 🇪🇸
+#EXTINF:-1,My Time Movie 🇪🇸
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1, My Time Movie 🇪🇸
+#EXTINF:-1,My Time Movie 🇪🇸
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1, Next HD 🇵🇾
+#EXTINF:-1,Next HD 🇵🇾
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-#EXTINF:-1, Next HD 🇵🇾
+#EXTINF:-1,Next HD 🇵🇾
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-#EXTINF:-1, runtime Español 🇺🇸
+#EXTINF:-1,runtime Español 🇺🇸
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
-#EXTINF:-1, runtime Español 🇺🇸
+#EXTINF:-1,runtime Español 🇺🇸
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
-#EXTINF:-1, Extrema Cine Accion 🇦🇷
+#EXTINF:-1,Extrema Cine Accion 🇦🇷
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1, Extrema Cine Accion 🇦🇷
+#EXTINF:-1,Extrema Cine Accion 🇦🇷
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1, Xtrema Cine Clasico 🇦🇷
+#EXTINF:-1,Xtrema Cine Clasico 🇦🇷
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
-#EXTINF:-1, Xtrema Cine Clasico 🇦🇷
+#EXTINF:-1,Xtrema Cine Clasico 🇦🇷
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
-#EXTINF:-1, Xtrema Terror 🇦🇷
+#EXTINF:-1,Xtrema Terror 🇦🇷
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1, Xtrema Terror 🇦🇷
+#EXTINF:-1,Xtrema Terror 🇦🇷
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1, ESTRELLA TV
+#EXTINF:-1,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1, ESTRELLA TV
+#EXTINF:-1,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1, ADN40
+#EXTINF:-1,ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1, ADN40
+#EXTINF:-1,ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1, Telemundo
+#EXTINF:-1,Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1, Telemundo
+#EXTINF:-1,Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1, Manclar television
+#EXTINF:-1,Manclar television
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
-#EXTINF:-1, Manclar television
+#EXTINF:-1,Manclar television
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
-#EXTINF:-1, ImagenUniversalTv
+#EXTINF:-1,ImagenUniversalTv
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR
-#EXTINF:-1, ImagenUniversalTv
+#EXTINF:-1,ImagenUniversalTv
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR
 #EXTINF:-1,Telemundo La Casa de los Famosos All Stars Cam 1 🇺🇸
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
@@ -119,25 +121,25 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,Estrella tvᶠᴴᴰ 🇲🇽
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1, Vevo Retro Rock 🎧🤟
+#EXTINF:-1,Vevo Retro Rock 🎧🤟
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-#EXTINF:-1, Vevo Retro Rock 🎧🤟
+#EXTINF:-1,Vevo Retro Rock 🎧🤟
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-#EXTINF:-1, Virgin Radio 🎧🤟
+#EXTINF:-1,Virgin Radio 🎧🤟
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
-#EXTINF:-1, Virgin Radio 🎧🤟
+#EXTINF:-1,Virgin Radio 🎧🤟
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
-#EXTINF:-1, NOW 70s 🎧🤟
+#EXTINF:-1,NOW 70s 🎧🤟
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1, NOW 70s 🎧🤟
+#EXTINF:-1,NOW 70s 🎧🤟
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1, NOW 80s 🎧🤟
+#EXTINF:-1,NOW 80s 🎧🤟
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1, NOW 80s 🎧🤟
+#EXTINF:-1,NOW 80s 🎧🤟
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1, NOW Rock 🎧🤟
+#EXTINF:-1,NOW Rock 🎧🤟
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1, NOW Rock 🎧🤟
+#EXTINF:-1,NOW Rock 🎧🤟
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
 #EXTINF:-1,Catedral do Rock tv 🎧🤟
 https://stmv1.srvif.com/tvcrucilandia/tvcrucilandia/playlist.m3u8
