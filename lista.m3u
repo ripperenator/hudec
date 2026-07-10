@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,ORBIT TV (1080p)
+https://edge.essastream.com/orbittv/index.m3u8
 #EXTINF:-1,Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1,ADN 40
