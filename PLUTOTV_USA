@@ -1,7 +1,21 @@
 #EXTM3U
 
-
-
+#EXTINF:-1 tvg-id="Stingray_Flashback70s" group-title="Music",Stingray_Flashback70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/208601fc-a1b0-3a27-8918-a3734147e78e/1791348/manifest.m3u8
+#EXTINF:-1 tvg-id="Stingray_RememberThe80s" group-title="Music",Stingray_RememberThe80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/82f53b7b-ca5e-3494-9844-c2faca0e2ad7/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="Stingray_ClassicRock" group-title="Music",Stingray_ClassicRock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/91f1e420-bb65-3ca7-97bd-d01df1ad4df1/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="Stingray_GratestHits" group-title="Music",Stingray_GratestHits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/b60fdee7-b18d-3d13-94e6-91a82593e061/1699825/manifest.m3u8
+#EXTINF:-1 tvg-id="Stingray_NothingBut90s" group-title="Music",Stingray_NothingBut90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/f5102ca4-edd7-30ac-a357-877f60db023b/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="Stingray_Country" group-title="Music",Stingray_Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/f15587f1-baba-3453-92b5-c95316b3966b/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="Stingray_Holidayscapes" group-title="Music",Stingray_Holidayscapes
+https://d10cyxntpn0bwm.cloudfront.net/master_1920x1080_4500kbps.m3u8
+#EXTINF:-1 tvg-id="QuelloConcerts" group-title="Music",QuelloConcerts
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/208e2d76-9e6d-4291-b8ad-9a48bb0738e9/3.m3u8
 #EXTINF:-1 tvg-id="MiTV" group-title="Clasicos",MiTV
 https://mitv.getstreamhosting.com:1936/live/live/chunklist_w118287857.m3u8
 #EXTINF:-1 tvg-id="TeleClasica" group-title="Clasicos",TeleClasica
@@ -90,7 +104,7 @@ https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
 #EXTINF:0 group-title="Sin Categoria",Rakuten Documentários (1080p)
 https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8
-#EXTINF:0 group-title="Sin Categoria",Rakuten Família (1080p)
+#EXTINF:0 group-title="Peliculas",Rakuten Família (1080p)
 https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
 #EXTINF:0 group-title="Peliculas",Rakuten TV Action Movies Spain (1080p)
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
@@ -98,7 +112,7 @@ https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/
 https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
 #EXTINF:0 group-title="Peliculas",Rakuten TV Comedy Movies Spain (1080p)
 https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-#EXTINF:0 group-title="Sin Categoria",Rakuten TV Crime Series Spain (1080p)
+#EXTINF:0 group-title="Documentales",Rakuten TV Crime Series Spain (1080p)
 https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
 #EXTINF:0 group-title="Peliculas",Rakuten TV Drama Movies Spain (1080p)
 https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
@@ -106,15 +120,15 @@ https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
 #EXTINF:0 group-title="Peliculas",Rakuten TV Romance Movies Spain (1080p)
 https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-#EXTINF:0 group-title="Sin Categoria",Rakuten TV Sci-Fi Spain (1080p)
+#EXTINF:0 group-title="Series",Rakuten TV Sci-Fi Spain (1080p)
 https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
-#EXTINF:0 group-title="Sin Categoria",Rakuten TV Thrillers Spain (1080p)
+#EXTINF:0 group-title="Peliculas",Rakuten TV Thrillers Spain (1080p)
 https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
 #EXTINF:0 group-title="Peliculas",Rakuten TV Top Movies Spain (1080p)
 
 
 
-#EXTINF:-1 tvg-id="DTV" tvg-logo="https://imgur.com/z4h70BJ.png" group-title="Sin Categoria",CANALDTVLATINO
+#EXTINF:-1 tvg-id="DTV" tvg-logo="https://imgur.com/z4h70BJ.png" group-title="Entretenimiento",CANALDTVLATINO
 https://s.emisoras.tv:8081/dtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="R&ETV" tvg-logo="https://imgur.com/pMzSt7G.png" group-title="Entretenimiento",R&ETV
 https://cloud2.streaminglivehd.com/8072/8072/chunklist_w529786315.m3u8
@@ -124,7 +138,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="Microvision" tvg-logo="https://i.imgur.com/zSR7lS8.png" group-title="Peliculas", Microvision 🇩🇴
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1829688679.m3u8
-#EXTINF:-1 tvg-id="CanalDTV.do@SD" tvg-logo="https://i.imgur.com/JO5yuNC.png" group-title="Sin Categoria",Canal DTV (720p)
+#EXTINF:-1 tvg-id="CanalDTV.do@SD" tvg-logo="https://i.imgur.com/JO5yuNC.png" group-title="Entretenimiento",Canal DTV (720p)
 https://s.emisoras.tv:8081/dtv/index.m3u8
 
 #EXTINF:-1 tvg-id="Multivision" tvg-logo="https://i.imgur.com/r8sR14g.png" group-title="Entretenimiento", Multivision 🇩🇴
@@ -145,7 +159,7 @@ https://edge.essastream.com/megacinetv/tracks-v1a1/mono.m3u8
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="JARABACOATV.do@HD" tvg-logo="https://imgur.com/m9WCrlw.jpg" group-title="Peliculas",JARABACOA TV (1080p)
 https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ORBITTV.do@SD" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="Sin Categoria",ORBIT TV (1080p)
+#EXTINF:-1 tvg-id="ORBITTV.do@SD" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="Peliculas",ORBIT TV (1080p)
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.es@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime movie network Spain (1080p)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
