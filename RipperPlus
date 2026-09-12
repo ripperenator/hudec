@@ -3,18 +3,28 @@
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/playlist.m3u8?ads_amagi_channel=989&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=16&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6735&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=4d6e2fc3-3c83-48c8-b108-d5f7b642ff10&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1,Retro Plus TV Señal 2
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+#EXTINF:-1,Imagen
+https://stream.ads.ottera.tv/cl/260912daiqbei181as73fktrl0/1280x720_3071200_0_f.m3u8?i=728_6149
+#EXTINF:-1,Quello Concerts
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/208e2d76-9e6d-4291-b8ad-9a48bb0738e9/3.m3u8
 #EXTINF:-1,Retro Plus TV Señal 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
-#EXTINF:-1,CanaTv
-https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
+#EXTINF:-1,Sony ONE Series Comedia
+https://d1fhd07bw4d2d6.cloudfront.net/playlist_7.m3u8
+#EXTINF:-1,Sony ONE Hits Comedia
+https://d3m8rnla2v9m5d.cloudfront.net/playlist_8.m3u8
+#EXTINF:-1,Sony ONE Exitos
+https://d1hcj42s7cseno.cloudfront.net/playlist_8.m3u8
 #EXTINF:-1,SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+#EXTINF:-1,SONY ACCION
+https://de9yx47crxs6l.cloudfront.net/playlist_8.m3u8
 #EXTINF:-1,OrbitTv
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ORBIT TV (1080p)
 https://edge.essastream.com/orbittv/index.m3u8
+#EXTINF:-1,LOVE HATE CRIMEN
+https://amg01821-amg01821c23-xiaomi-international-4612.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg01821-lovetvfast-lovecrimeandhistoryspain-xiaomiinternational/cb573f16657460909bcc3f78d1f349829e7b3dcb0e6c886470af4a9765d96208d6e5af87b208b7634ce6419a34567d2c0c34db66bd6c69d7df7ac7503113106d8ae9f23b85cc755ce0a3566e35b679194ffd0805c85e2b46f4c556488934be7c4534ed0a65597bcd9e01ef290f909f0b8e7d378bb3dd7f396d390ec90c1fbcbf5ba0f8ff5e43ca78f3b81a4a927a11e79f139c804aa681d50d9f5e8e25f212809af28e85448b84c335aa5fb306e539480cf17fea00a827d4f7a22b5fb174304f1d5a94dbf99c601df68ac7c19a85a6916aed07c6c9048c6525b2039935f25862f63e68d58e6da9b8bfde460116a6d65e668473ebe2f893abd82e0789c1daf25d06ffc51b7648db6c9245415dc8a89b41d4915dfedc52dbad51d56dddca65e2e6df03a24091713c6fb8e6f99d2f4b4d624b2a834faf957ed225d177921f724b49604bb79359c887960b7e320fcead5fd71a15add4988b844e12c4741e56a84dd8584543ff74543cb47dc6cb6953de6f4aa4252df75d028540d7b138baf288b24868e39e8f69d75bc2994692fa0ba2687c7e07b0f92316056f75c2e16b087f289617aa8384b1395940dff6cbffd25a77526a401c5fdd90881affa1f3692564a602765f254528c17e9103b927460f29c51ba1c92864950a24578b84374f55619388fcc1a8e58a7cf718f7caee323b344969de6254758eb27b23af485ea64ace199e69805043d5e2eb71663346/113/1920x1080_6046040/index.m3u8
 #EXTINF:-1,Telever canal 12
 https://soportedvb.click:3413/live/televerlive.m3u8
 #EXTINF:-1,MegaCineTv
