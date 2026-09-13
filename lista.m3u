@@ -20,6 +20,22 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8
 #EXTINF:-1, VClassicTV | CL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1, Stingray_Flashback70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/208601fc-a1b0-3a27-8918-a3734147e78e/1791348/manifest.m3u8
+#EXTINF:-1, Stingray_RememberThe80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/82f53b7b-ca5e-3494-9844-c2faca0e2ad7/1790800/manifest.m3u8
+#EXTINF:-1, Stingray_ClassicRock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/91f1e420-bb65-3ca7-97bd-d01df1ad4df1/1790800/manifest.m3u8
+#EXTINF:-1, Stingray_GratestHits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/b60fdee7-b18d-3d13-94e6-91a82593e061/1699825/manifest.m3u8
+#EXTINF:-1, Stingray_NothingBut90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/f5102ca4-edd7-30ac-a357-877f60db023b/1790800/manifest.m3u8
+#EXTINF:-1, Stingray_Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/f15587f1-baba-3453-92b5-c95316b3966b/1790800/manifest.m3u8
+#EXTINF:-1, Stingray_Holidayscapes
+https://d10cyxntpn0bwm.cloudfront.net/master_1920x1080_4500kbps.m3u8
+#EXTINF:-1, QuelloConcerts
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/208e2d76-9e6d-4291-b8ad-9a48bb0738e9/3.m3u8
 
 
 
