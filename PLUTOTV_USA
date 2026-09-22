@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-id="Canal 13 La Rioja" group-title="Peliculas",Canal 13 La Rioja
+https://stream.arcast.net:4443/mp/mp/playlist.m3u8
+#EXTINF:-1, tvg-id="Cine Sony" group-title="Peliculas",Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Stingray_Flashback70s" group-title="Music",Stingray_Flashback70s
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/208601fc-a1b0-3a27-8918-a3734147e78e/1791348/manifest.m3u8
 #EXTINF:-1 tvg-id="Stingray_RememberThe80s" group-title="Music",Stingray_RememberThe80s
