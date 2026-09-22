@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-id="Manclar television" group-title="Peliculas",Manclar television
+https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
+#EXTINF:-1, tvg-id="ImagenUniversalTv" group-title="Peliculas",ImagenUniversalTv
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR
+
 #EXTINF:-1, tvg-id="Canal 13 La Rioja" group-title="Peliculas",Canal 13 La Rioja
 https://stream.arcast.net:4443/mp/mp/playlist.m3u8
 #EXTINF:-1, tvg-id="Cine Sony" group-title="Peliculas",Cine Sony
