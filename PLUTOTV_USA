@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-id="ORBIT TV" group-title="Peliculas",ORBIT TV
+https://edge.essastream.com/orbittv/index.m3u8
+#EXTINF:-1, tvg-id="AMC" group-title="Peliculas",AMC
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:-1, tvg-id="Manclar television" group-title="Peliculas",Manclar television
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 #EXTINF:-1, tvg-id="ImagenUniversalTv" group-title="Peliculas",ImagenUniversalTv
