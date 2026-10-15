@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:20, tvg-logo="https://i.imgur.com/g81rbY9.png" tvg-id="ORBIT TV" group-title="Peliculas" - ORBIT TV
 https://edge.essastream.com/orbittv/index.m3u8
-#EXTINF:0, tvg-logo="https://pics.filmaffinity.com/las_colegialas_aka_las_colegialas_se_divierten-698611634-mmed.jpg" Las Colegialas (1986)
-https://archive.org/download/happy-high-school-las-colegialas/Happy%20High%20School%2C%20Las%20Colegialas.ia.mp4
 #EXTINF:80, tvg-logo="https://i.imgur.com/SYtiP3s.png" tvg-id="ImagenUniversalTv" group-title="Peliculas" - ImagenUniversalTv
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR
 #EXTINF:28, tvg-logo="https://i.imgur.com/FxIkfi1.png" tvg-id="Manclar television" group-title="Peliculas" - Manclar television
