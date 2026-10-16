@@ -1,321 +1,115 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
-
+#EXTM3U
 #EXTINF:20,ORBIT TV (1080p)
 https://edge.essastream.com/orbittv/index.m3u8
-#EXTINF:102, Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:30, Las Estrellas (excepto pelis)
 #EXTVLCOPT:network-caching=1000
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:11, Imagen Television
-#EXTVLCOPT:network-caching=1000
-http://181.78.105.146:2000/play/a00h/index.m3u8
-#EXTINF:11, Canal 5
-#EXTVLCOPT:network-caching=1000
-http://181.78.105.146:2000/play/a038/index.m3u8
-#EXTINF:102, Azteca 7
-#EXTVLCOPT:network-caching=1000
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:11,Uno
-http://181.78.105.146:2000/play/a04p/index.m3u8
-#EXTINF:11,LAS ESTRELLAS
-http://181.78.105.146:2000/play/a00g/index.m3u8
-#EXTINF:11,Imagen
-http://181.78.105.146:2000/play/a00h/index.m3u8
-#EXTINF:11,Cinco
-http://181.78.105.146:2000/play/a038/index.m3u8
-#EXTINF:11,Canal 6 CDMX
-http://181.78.105.146:2000/play/a039/index.m3u8
-#EXTINF:11,Siete
-http://181.78.105.146:2000/play/a00i/index.m3u8
-#EXTINF:11,ONCE
-http://181.78.105.146:2000/play/a03a/index.m3u8
-#EXTINF:11,Canal 14
-http://181.78.105.146:2000/play/a044/index.m3u8
-#EXTINF:11,UNAM
-http://181.78.105.146:2000/play/a045/index.m3u8
-#EXTINF:11,Canal22
-http://181.78.105.146:2000/play/a00j/index.m3u8
-#EXTINF:11,MVSTV
-http://181.78.105.146:2000/play/a03b/index.m3u8
-#EXTINF:11,Universal
-http://181.78.105.146:2000/play/a03d/index.m3u8
-#EXTINF:11,SONY
-http://181.78.105.146:2000/play/a002/index.m3u8
-#EXTINF:11,WB
-http://181.78.105.146:2000/play/a01f/index.m3u8
-#EXTINF:0,TNTSE
-http://181.78.105.146:2000/play/a00m/index.m3u8
-#EXTINF:0,AXN
-http://181.78.105.146:2000/play/a05y/index.m3u8
-#EXTINF:0,FX
-http://181.78.105.146:2000/play/a05z/index.m3u8
-#EXTINF:0,Space MX
-http://181.78.105.146:2000/play/a04x/index.m3u8
-#EXTINF:0,A&E
-http://181.78.105.146:2000/play/a03f/index.m3u8
-#EXTINF:0,Investigation Discovery La
-http://181.78.105.146:2000/play/a04y/index.m3u8
-#EXTINF:0,DH&H
-http://181.78.105.146:2000/play/a03g/index.m3u8
-#EXTINF:0,TLC
-http://181.78.105.146:2000/play/a03h/index.m3u8
-#EXTINF:0,Lifetime
-http://181.78.105.146:2000/play/a01i/index.m3u8
-#EXTINF:0,HOLA
-http://181.78.105.146:2000/play/a00n/index.m3u8
-#EXTINF:0,E!
-http://181.78.105.146:2000/play/a03i/index.m3u8
-#EXTINF:0,ComedyC
-http://181.78.105.146:2000/play/a04a/index.m3u8
-#EXTINF:0,VideRola
-http://181.78.105.146:2000/play/a04c/index.m3u8
-#EXTINF:0,TELER
-http://181.78.105.146:2000/play/a03u/index.m3u8
-#EXTINF:0,OnceKids
-http://181.78.105.146:2000/play/a04f/index.m3u8
-#EXTINF:0,DisneyJR
-http://181.78.105.146:2000/play/a03j/index.m3u8
-#EXTINF:0,NICKELODEON
-http://181.78.105.146:2000/play/a014/index.m3u8
-#EXTINF:0,CartoonNetwork
-http://181.78.105.146:2000/play/a03k/index.m3u8
-#EXTINF:0,Discovery kids
-http://181.78.105.146:2000/play/a015/index.m3u8
-#EXTINF:0,MXNuestroCine
-http://181.78.105.146:2000/play/a04h/index.m3u8
-#EXTINF:0,IngenioTV
-http://181.78.105.146:2000/play/a04i/index.m3u8
-#EXTINF:0,Discovery
-http://181.78.105.146:2000/play/a03x/index.m3u8
-#EXTINF:0,NatGeo
-http://181.78.105.146:2000/play/a01l/index.m3u8
-#EXTINF:0,History
-http://181.78.105.146:2000/play/a017/index.m3u8
-#EXTINF:0,History2
-http://181.78.105.146:2000/play/a00v/index.m3u8
-#EXTINF:0,Arts
-http://181.78.105.146:2000/play/a04j/index.m3u8
-#EXTINF:0,Claro Sport
-http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:0,ESPN 2
-http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:0,ESPN
-http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:0,ESPN3
-http://181.78.105.146:2000/play/a03n/index.m3u8
-#EXTINF:0,CNNE
-http://181.78.105.146:2000/play/a00x/index.m3u8
-#EXTINF:0,Milenio
-http://181.78.105.146:2000/play/a00y/index.m3u8
-#EXTINF:0,MNMX
-http://181.78.105.146:2000/play/a04m/index.m3u8
-#EXTINF:0,Judicial
-http://181.78.105.146:2000/play/a04n/index.m3u8
-#EXTINF:0,TNT
-http://181.78.105.146:2000/play/a018/index.m3u8
-#EXTINF:0,MC
-http://181.78.105.146:2000/play/a01o/index.m3u8
-#EXTINF:0,CineCanal O
-http://181.78.105.146:2000/play/a04q/index.m3u8
-#EXTINF:0,Film&Arts
-http://181.78.105.146:2000/play/a08i/index.m3u8
-#EXTINF:0,StudioUniversal
-http://181.78.105.146:2000/play/a04o/index.m3u8
-#EXTINF:0,Paramount
-http://181.78.105.146:2000/play/a01s/index.m3u8
-#EXTINF:0, AGROTENDENCIA
-http://181.78.105.146:2000/play/a08b/index.m3u8
-#EXTINF:0, Azteca 7
-http://181.78.105.146:2000/play/a08z/index.m3u8
-#EXTINF:0, Cine Mexicano TV
-http://181.78.105.146:2000/play/a092/index.m3u8
-#EXTINF:0, Distrito Comedia
-http://181.78.105.146:2000/play/a08t/index.m3u8
-#EXTINF:0, Telemundo USA
-http://181.78.105.146:2000/play/a093/index.m3u8
-#EXTINF:0, SKY LA LIGA
-http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:0, TLNOVELAS
-http://181.78.105.146:2000/play/a08d/index.m3u8
-#EXTINF:0, TN23
-http://181.78.105.146:2000/play/a08g/index.m3u8
-#EXTINF:0, TUDN
-http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:0, UNICABLE
-http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:0, Run Time Latino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 #EXTINF:0, Run Time Films
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:0, Run Time Espanyol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
 #EXTINF:0, Run Time Cine y Series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
-#EXTINF:0, Run Time English
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2648
 #EXTINF:0, Run Time France
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
-#EXTINF:0, Run Time Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:0, Run Time Espanyol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+#EXTINF:0, Run Time English
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2648
 #EXTINF:0, Run Time Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
 #EXTINF:0, Run Time Terror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-#EXTINF:0, Run Time Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532
 #EXTINF:0, Run Time Crimen
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 #EXTINF:0, Run Time Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 #EXTINF:0, Run Time Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
-#EXTINF:0, Canela TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
-#EXTINF:0, Canela Network
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
-#EXTINF:0, Canela Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
-#EXTINF:0, Canela Novelas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:0, Canela Clásicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:0, Canela Hits
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-#EXTINF:0, Canela Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:0, Canela Music
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
-#EXTINF:0, Canela Novelisima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:0, ITV DEPORTES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-#EXTINF:0, AYM Sports
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
-#EXTINF:0, Combate Global
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:0, Toon Goggles
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
-#EXTINF:0, Kanal D Drama
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:0, Corazón Fast
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+#EXTINF:0, AYM Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:0, Clic Fast
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
-#EXTINF:0, Cinema Fast
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
-#EXTINF:0, Acción Mexicana
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-#EXTINF:0, CombaTV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
 #EXTINF:0, WPT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504
 #EXTINF:0, C4 En Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
-#EXTINF:0, Canal 6 CDMX
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405
 #EXTINF:0, Milenio Televisión
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
+#EXTINF:0, Canal 6 CDMX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405
 #EXTINF:0, Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
-#EXTINF:0, Teleformula
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:0, Azteca Uno (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:0, Imagen TV+ (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-#EXTINF:0,Vevo Pop
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,Vevo Latino
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,Vevo Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,Vevo Iconos Latinos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64d161c93c785e0008df575e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,Vevo Reggaeton & Trap
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Vevo Regional Mexicano
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64dab5fe35425100080e2991/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Vevo Country
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Vevo R&B
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Vevo '70s
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Vevo '80s
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,Vevo '90s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Vevo 2K
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,Vevo '80s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,Vevo Hip-Hop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,N+ Foro (US Feed)
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
+#EXTINF:0,Vevo 2K
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,Canal 6 CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:0,MVSTV
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:0,A+ CDMX
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:0,Once.3
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
 #EXTINF:0,Canal Catorce
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+#EXTINF:0,A+ CDMX
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:0,N+ Foro (US Feed)
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:0,TV Migrante
 https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1795049700.m3u8
-#EXTINF:0,TV UNAM
-https://cdn.mycloudstream.io/hls/live/broadcast/f8zowjae/index.m3u8
-#EXTINF:0,Canal 22
-https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
-#EXTINF:0,MX Nuestro Cine
-https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
-#EXTINF:0,Canal Del Congreso 45.1
-https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
-#EXTINF:0,Canal Del Congreso 45.2
-https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
-#EXTINF:0,Canal Del Congreso 45.3
-https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
-#EXTINF:0,Canal 6 MTY
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,MVSTV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:0,Canal 6 LAG
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:0,Canal 6 GDL
 http://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:0,Canal 6 PUE
-http://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:0,Canal 6 MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0,Canal 6 GTO
 http://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+#EXTINF:0,Canal 6 PUE
+http://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:0,Canal 6 SAL
 http://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:0,Canal 6 CDJ
 http://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
-#EXTINF:0,Canal 8 SJCR
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:0,Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+#EXTINF:0,MX Nuestro Cine
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 #EXTINF:0,Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:0, Milenio Televisión
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:0,Capital 21
-https://s5.mexside.net:1936/respaldo/respaldo/chunklist_w390601932.m3u8
+#EXTINF:0,Canal 8 SJCR
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:0,Mexiquense Televisión
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:0,Capital 21
+https://s5.mexside.net:1936/respaldo/respaldo/chunklist_w390601932.m3u8
 #EXTINF:0,AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:0,Jalisco TV
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:0, Milenio Televisión
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:0,Canal 28 NL
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:0,SICOM Televisión 16.1
-https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
-#EXTINF:0,SICOM Televisión 16.2
-https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8
-#EXTINF:0,TV4 Gto.
-https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
-#EXTINF:0,TV4.2 Gto.
-https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#EXTINF:0,TV4.3 Gto.
-https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
-#EXTINF:0,Morelos TV 15.1
-https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 #EXTINF:0,Diez Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:0,SMRTV 16.1
@@ -324,71 +118,31 @@ https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:0,Sizart TV
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:0,TV4 Gto.
+https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
+#EXTINF:0,TV4.3 Gto.
+https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 #EXTINF:0,RTQ
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
-#EXTINF:0,Canal 10 Cancún/Heraldo Televisión Canal 8
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:0,Justicia TV
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:0,RT (Español)
-https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:0,Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0,DW (Español)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:0, France 24
-https://cdn.mycloudstream.io/hls/live/broadcast/mff4n5ey/index.m3u8
-#EXTINF:0, CGTN Español
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:0,RT (Español)
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0, ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:0, AZTECA UNO (SIN CORTES)
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:0, AZTECA 7 (SIN CORTES)
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:0, A MÁS (SIN CORTES)
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:0, ADN40 (SIN CORTES)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0, VA+ 26.1
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:0, VIDEOROLA
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:0, Meganoticias MX
-https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:0, Retro Plus TV
-https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Ruidos TV
-https://panel.tvstream.cl:1936/8022/8022/playlist.m3u8
 #EXTINF:0, Portal FoxMix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:0, Retro Music Television
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:0, m2o TV
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:0, Maxima FM
-https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximafmchile_all/playlist.m3u8
-#EXTINF:0, Music Top
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:0, Latina TV
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
-#EXTINF:0, RCKTV
-https://inliveserver.com:1936/11530/11530/playlist.m3u8
-#EXTINF:0, The Retro Channel
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:0, TV vconline.cl
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
-#EXTINF:0, RadioTV.pro
-https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8
-#EXTINF:0, Video Tour Channel
-https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
-#EXTINF:0, TOP Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8
 #EXTINF:0, Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:0,Foro
-https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
-#EXTINF:0, CANAL 4 MONTERREY
-https://ythls-v3.onrender.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
-#EXTINF:0, CANAL 4 GUADALAJARA
-https://ythls-v3.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
+#EXTINF:0, Retro Music Television
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
