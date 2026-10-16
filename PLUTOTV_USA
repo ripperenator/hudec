@@ -1,497 +1,498 @@
 #EXTM3U
-#EXTINF:20, tvg-logo="https://i.imgur.com/g81rbY9.png" tvg-id="ORBIT TV" group-title="Peliculas" - ORBIT TV
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-khxqhnjuca.xml"
+#EXTINF:-1 tvg-id="ORBITTV" tvg-name="ORBIT TV" tvg-logo="https://i.imgur.com/g81rbY9.png" group-title="Peliculas",ORBIT TV
 https://edge.essastream.com/orbittv/index.m3u8
-#EXTINF:80, tvg-logo="https://i.imgur.com/SYtiP3s.png" tvg-id="ImagenUniversalTv" group-title="Peliculas" - ImagenUniversalTv
+#EXTINF:-1 tvg-id="ImagenUniversalTv" tvg-name="ImagenUniversalTv" tvg-logo="https://i.imgur.com/SYtiP3s.png" group-title="Peliculas",ImagenUniversalTv
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR
-#EXTINF:28, tvg-logo="https://i.imgur.com/FxIkfi1.png" tvg-id="Manclar television" group-title="Peliculas" - Manclar television
+#EXTINF:-1 tvg-id="Manclartelevision" tvg-name="Manclar television" tvg-logo="https://i.imgur.com/FxIkfi1.png" group-title="Peliculas",Manclar television
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
-#EXTINF:12, tvg-logo="https://i.imgur.com/DxPzRy8.png" tvg-id="Canal 13 La Rioja" group-title="Peliculas" - Canal 13 La Rioja
+#EXTINF:-1 tvg-id="Canal13LaRioja" tvg-name="Canal 13 La Rioja" tvg-logo="https://i.imgur.com/DxPzRy8.png" group-title="Peliculas",Canal 13 La Rioja
 https://stream.arcast.net:4443/mp/mp/playlist.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/sra8bmy.png" tvg-id="Cine Sony" group-title="Peliculas" - Cine Sony
+#EXTINF:-1 tvg-id="CineSony" tvg-name="Cine Sony" tvg-logo="https://i.imgur.com/sra8bmy.png" group-title="Peliculas",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:0,Stingray_Flashback70s
+#EXTINF:-1 tvg-id="StingrayFlashback70s" tvg-name="Stingray_Flashback70s" group-title="General",Stingray_Flashback70s
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/208601fc-a1b0-3a27-8918-a3734147e78e/1791348/manifest.m3u8
-#EXTINF:0,Stingray_RememberThe80s
+#EXTINF:-1 tvg-id="StingrayRememberThe80s" tvg-name="Stingray_RememberThe80s" group-title="General",Stingray_RememberThe80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/82f53b7b-ca5e-3494-9844-c2faca0e2ad7/1790800/manifest.m3u8
-#EXTINF:0,Stingray_ClassicRock
+#EXTINF:-1 tvg-id="StingrayClassicRock" tvg-name="Stingray_ClassicRock" group-title="General",Stingray_ClassicRock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/91f1e420-bb65-3ca7-97bd-d01df1ad4df1/1790800/manifest.m3u8
-#EXTINF:59, tvg-logo="https://i.imgur.com/WznAFNv.png" tvg-id="AMC" group-title="Peliculas" - AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.imgur.com/WznAFNv.png" group-title="Peliculas",AMC
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:0,Stingray_GratestHits
+#EXTINF:-1 tvg-id="StingrayGratestHits" tvg-name="Stingray_GratestHits" group-title="General",Stingray_GratestHits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/b60fdee7-b18d-3d13-94e6-91a82593e061/1699825/manifest.m3u8
-#EXTINF:0,Stingray_NothingBut90s
+#EXTINF:-1 tvg-id="StingrayNothingBut90s" tvg-name="Stingray_NothingBut90s" group-title="General",Stingray_NothingBut90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/f5102ca4-edd7-30ac-a357-877f60db023b/1790800/manifest.m3u8
-#EXTINF:0,Stingray_Country
+#EXTINF:-1 tvg-id="StingrayCountry" tvg-name="Stingray_Country" group-title="General",Stingray_Country
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/f15587f1-baba-3453-92b5-c95316b3966b/1790800/manifest.m3u8
-#EXTINF:0,Stingray_Holidayscapes
+#EXTINF:-1 tvg-id="StingrayHolidayscapes" tvg-name="Stingray_Holidayscapes" group-title="General",Stingray_Holidayscapes
 https://d10cyxntpn0bwm.cloudfront.net/master_1920x1080_4500kbps.m3u8
-#EXTINF:0,ATV
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" group-title="General",ATV
 http://181.224.200.5:2277/play/3232/index.m3u8
-#EXTINF:0,A&E HD
+#EXTINF:-1 tvg-id="AEHD" tvg-name="A&E HD" group-title="General",A&E HD
 http://181.224.200.5:2277/play/a01e/index.m3u8
-#EXTINF:0,AXN HD
+#EXTINF:-1 tvg-id="AXNHD" tvg-name="AXN HD" group-title="General",AXN HD
 http://181.224.200.5:2277/play/a01h/index.m3u8
-#EXTINF:0,MiTV
+#EXTINF:-1 tvg-id="MiTV" tvg-name="MiTV" group-title="General",MiTV
 https://mitv.getstreamhosting.com:1936/live/live/chunklist_w118287857.m3u8
-#EXTINF:0,Animal Planet HD
+#EXTINF:-1 tvg-id="AnimalPlanetHD" tvg-name="Animal Planet HD" group-title="General",Animal Planet HD
 http://181.224.200.5:2277/play/a00r/index.m3u8
-#EXTINF:0,America TV HD
+#EXTINF:-1 tvg-id="AmericaTVHD" tvg-name="America TV HD" group-title="General",America TV HD
 http://181.224.200.5:2277/play/a0dc/index.m3u8
-#EXTINF:0,TeleClasica
+#EXTINF:-1 tvg-id="TeleClasica" tvg-name="TeleClasica" group-title="General",TeleClasica
 https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
-#EXTINF:0,De Pelicula
+#EXTINF:-1 tvg-id="DePelicula" tvg-name="De Pelicula" group-title="General",De Pelicula
 http://181.224.200.5:2277/play/a0d1/index.m3u8
-#EXTINF:0,Discovery Channel HD
+#EXTINF:-1 tvg-id="DiscoveryChannelHD" tvg-name="Discovery Channel HD" group-title="General",Discovery Channel HD
 http://181.224.200.5:2277/play/a00t/index.m3u8
-#EXTINF:0,El Gourmet HD
+#EXTINF:-1 tvg-id="ElGourmetHD" tvg-name="El Gourmet HD" group-title="General",El Gourmet HD
 http://181.224.200.5:2277/play/a00n/index.m3u8
-#EXTINF:0,Golden Edge
+#EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" group-title="General",Golden Edge
 http://181.224.200.5:2277/play/a0bd/index.m3u8
-#EXTINF:0,FX HD
+#EXTINF:-1 tvg-id="FXHD" tvg-name="FX HD" group-title="General",FX HD
 http://181.224.200.5:2277/play/a011/index.m3u8
-#EXTINF:0,Golden HD
+#EXTINF:-1 tvg-id="GoldenHD" tvg-name="Golden HD" group-title="General",Golden HD
 http://181.224.200.5:2277/play/a0do/index.m3u8
-#EXTINF:0,History 2
+#EXTINF:-1 tvg-id="History2" tvg-name="History 2" group-title="General",History 2
 http://181.224.200.5:2277/play/a01b/index.m3u8
-#EXTINF:0,Home & Health HD
+#EXTINF:-1 tvg-id="HomeHealthHD" tvg-name="Home & Health HD" group-title="General",Home & Health HD
 http://181.224.200.5:2277/play/a00p/index.m3u8
-#EXTINF:0,History Channel HD
+#EXTINF:-1 tvg-id="HistoryChannelHD" tvg-name="History Channel HD" group-title="General",History Channel HD
 http://181.224.200.5:2277/play/a02b/index.m3u8
-#EXTINF:0,Nat Geo HD
+#EXTINF:-1 tvg-id="NatGeoHD" tvg-name="Nat Geo HD" group-title="General",Nat Geo HD
 http://181.224.200.5:2277/play/a012/index.m3u8
-#EXTINF:0,Las Estrellas HD
+#EXTINF:-1 tvg-id="LasEstrellasHD" tvg-name="Las Estrellas HD" group-title="General",Las Estrellas HD
 http://181.224.200.5:2277/play/a00s/index.m3u8
-#EXTINF:0,ID HD
+#EXTINF:-1 tvg-id="IDHD" tvg-name="ID HD" group-title="General",ID HD
 http://181.224.200.5:2277/play/a00m/index.m3u8
-#EXTINF:0,Paramount HD
+#EXTINF:-1 tvg-id="ParamountHD" tvg-name="Paramount HD" group-title="General",Paramount HD
 http://181.224.200.5:2277/play/a0df/index.m3u8
-#EXTINF:0,Sony HD
+#EXTINF:-1 tvg-id="SonyHD" tvg-name="Sony HD" group-title="General",Sony HD
 http://181.224.200.5:2277/play/a01f/index.m3u8
-#EXTINF:0,Star Channel HD
+#EXTINF:-1 tvg-id="StarChannelHD" tvg-name="Star Channel HD" group-title="General",Star Channel HD
 http://181.224.200.5:2277/play/a00z/index.m3u8
-#EXTINF:0,Studio Universal HD
+#EXTINF:-1 tvg-id="StudioUniversalHD" tvg-name="Studio Universal HD" group-title="General",Studio Universal HD
 http://181.224.200.5:2277/play/a01j/index.m3u8
-#EXTINF:0,Telemundo
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" group-title="General",Telemundo
 http://181.224.200.5:2277/play/a01q/index.m3u8
-#EXTINF:0,UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-id="UNIVERSALCHANNELHD" tvg-name="UNIVERSAL CHANNEL HD" group-title="General",UNIVERSAL CHANNEL HD
 http://181.224.200.5:2277/play/a0ak/index.m3u8
-#EXTINF:0,Warner Channel HD
+#EXTINF:-1 tvg-id="WarnerChannelHD" tvg-name="Warner Channel HD" group-title="General",Warner Channel HD
 http://181.224.200.5:2277/play/a01g/index.m3u8
-#EXTINF:0,El Trece Satelital
+#EXTINF:-1 tvg-id="ElTreceSatelital" tvg-name="El Trece Satelital" group-title="General",El Trece Satelital
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v1/mono.m3u8
-#EXTINF:0,Canal 13 La Rioja (480p)
+#EXTINF:-1 tvg-id="Canal13LaRioja_2" tvg-name="Canal 13 La Rioja (480p)" group-title="General",Canal 13 La Rioja (480p)
 http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:0,Canal 8 C&C Producciones
+#EXTINF:-1 tvg-id="Canal8CCProducciones" tvg-name="Canal 8 C&C Producciones" group-title="General",Canal 8 C&C Producciones
 https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
-#EXTINF:0,Canal 10 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Canal10" tvg-name="Canal 10 (720p)" group-title="General",Canal 10 (720p)
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
-#EXTINF:0,Canal 11 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Canal11" tvg-name="Canal 11 (1080p)" group-title="General",Canal 11 (1080p)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/
-#EXTINF:0,Cine adrenalina
+#EXTINF:-1 tvg-id="pluto-5d8d164d92e97a5e107638d2" tvg-name="Cine adrenalina" group-title="Pluto TV",Cine adrenalina
 https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
-#EXTINF:0,Cine aventura
+#EXTINF:-1 tvg-id="pluto-60fb2f47c133270007327375" tvg-name="Cine aventura" group-title="Pluto TV",Cine aventura
 https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
-#EXTINF:0,Cine comedia
+#EXTINF:-1 tvg-id="pluto-5f513564e4622a0007c578c0" tvg-name="Cine comedia" group-title="Pluto TV",Cine comedia
 https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
-#EXTINF:0,Cine Amor
+#EXTINF:-1 tvg-id="pluto-5f5136317aedfb0007016f93" tvg-name="Cine Amor" group-title="Pluto TV",Cine Amor
 https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
-#EXTINF:0,Cine Estrella (1080p)
+#EXTINF:-1 tvg-id="CineEstrella" tvg-name="Cine Estrella (1080p)" group-title="General",Cine Estrella (1080p)
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
-#EXTINF:0,Cine en español
+#EXTINF:-1 tvg-id="pluto-5cf96b1c4f1ca3f0629f4bf0" tvg-name="Cine en español" group-title="Pluto TV",Cine en español
 https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
-#EXTINF:0,Rakuten TV Action Movies Spain (1080p)
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain" tvg-name="Rakuten TV Action Movies Spain (1080p)" group-title="General",Rakuten TV Action Movies Spain (1080p)
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-#EXTINF:0,Rakuten TV Cine Español (1080p)
+#EXTINF:-1 tvg-id="RakutenTVCineEspanol" tvg-name="Rakuten TV Cine Español (1080p)" group-title="General",Rakuten TV Cine Español (1080p)
 https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
-#EXTINF:0,Rakuten TV Crime Series Spain (1080p)
+#EXTINF:-1 tvg-id="RakutenTVCrimeSeriesSpain" tvg-name="Rakuten TV Crime Series Spain (1080p)" group-title="General",Rakuten TV Crime Series Spain (1080p)
 https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
-#EXTINF:0,Rakuten TV Family Movies Spain (1080p)
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesSpain" tvg-name="Rakuten TV Family Movies Spain (1080p)" group-title="General",Rakuten TV Family Movies Spain (1080p)
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-#EXTINF:0,Rakuten TV Romance Movies Spain (1080p)
+#EXTINF:-1 tvg-id="RakutenTVRomanceMoviesSpain" tvg-name="Rakuten TV Romance Movies Spain (1080p)" group-title="General",Rakuten TV Romance Movies Spain (1080p)
 https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-#EXTINF:0,Rakuten TV Sci-Fi Spain (1080p)
+#EXTINF:-1 tvg-id="RakutenTVSciFiSpain" tvg-name="Rakuten TV Sci-Fi Spain (1080p)" group-title="General",Rakuten TV Sci-Fi Spain (1080p)
 https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
-#EXTINF:0,CANALDTVLATINO
+#EXTINF:-1 tvg-id="CANALDTVLATINO" tvg-name="CANALDTVLATINO" group-title="General",CANALDTVLATINO
 https://s.emisoras.tv:8081/dtv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,R&ETV
+#EXTINF:-1 tvg-id="RETV" tvg-name="R&ETV" group-title="General",R&ETV
 https://cloud2.streaminglivehd.com/8072/8072/chunklist_w529786315.m3u8
-#EXTINF:0, ENT Channel 🇩🇴
+#EXTINF:-1 tvg-id="ENTChannel" tvg-name="ENT Channel" group-title="General",ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0,Rakuten TV Thrillers Spain (1080p)
+#EXTINF:-1 tvg-id="RakutenTVThrillersSpain" tvg-name="Rakuten TV Thrillers Spain (1080p)" group-title="General",Rakuten TV Thrillers Spain (1080p)
 https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
-#EXTINF:0, ENT Family 🇩🇴
+#EXTINF:-1 tvg-id="ENTFamily" tvg-name="ENT Family" group-title="General",ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0, Microvision 🇩🇴
+#EXTINF:-1 tvg-id="Microvision" tvg-name="Microvision" group-title="General",Microvision
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1829688679.m3u8
-#EXTINF:0,Canal DTV (720p)
+#EXTINF:-1 tvg-id="CanalDTV" tvg-name="Canal DTV (720p)" group-title="General",Canal DTV (720p)
 https://s.emisoras.tv:8081/dtv/index.m3u8
-#EXTINF:0, Multivision 🇩🇴
+#EXTINF:-1 tvg-id="Multivision" tvg-name="Multivision" group-title="General",Multivision
 https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
-#EXTINF:0, Extrema Cine Accion 🇦🇷
+#EXTINF:-1 tvg-id="ExtremaCineAccion" tvg-name="Extrema Cine Accion" group-title="General",Extrema Cine Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:0, MiTV (720p)
+#EXTINF:-1 tvg-id="MiTV_2" tvg-name="MiTV (720p)" group-title="General",MiTV (720p)
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
-#EXTINF:0, Next HD 🇵🇾
+#EXTINF:-1 tvg-id="NextHD" tvg-name="Next HD" group-title="General",Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-#EXTINF:0,Mega Cine TV (720p)
+#EXTINF:-1 tvg-id="MegaCineTV" tvg-name="Mega Cine TV (720p)" group-title="General",Mega Cine TV (720p)
 https://edge.essastream.com/megacinetv/tracks-v1a1/mono.m3u8
-#EXTINF:0,Imagen Universal
+#EXTINF:-1 tvg-id="ImagenUniversal" tvg-name="Imagen Universal" group-title="General",Imagen Universal
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
-#EXTINF:0,ORBIT TV (1080p)
+#EXTINF:-1 tvg-id="ORBITTV_2" tvg-name="ORBIT TV (1080p)" group-title="General",ORBIT TV (1080p)
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
-#EXTINF:0,MyTime Movie Network Mexico (720p)
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkMexico" tvg-name="MyTime Movie Network Mexico (720p)" group-title="General",MyTime Movie Network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:0,MyTime movie network Spain (1080p)
+#EXTINF:-1 tvg-id="MyTimemovienetworkSpain" tvg-name="MyTime movie network Spain (1080p)" group-title="General",MyTime movie network Spain (1080p)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0,Cascara TV (720p)
+#EXTINF:-1 tvg-id="CascaraTV" tvg-name="Cascara TV (720p)" group-title="General",Cascara TV (720p)
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
-#EXTINF:0,MVS TV
+#EXTINF:-1 tvg-id="MVSTV" tvg-name="MVS TV" group-title="General",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:0, Dodo TV
+#EXTINF:-1 tvg-id="DodoTV" tvg-name="Dodo TV" group-title="General",Dodo TV
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
-#EXTINF:0, Movie Sphere
+#EXTINF:-1 tvg-id="MovieSphere" tvg-name="Movie Sphere" group-title="General",Movie Sphere
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/1080p-en-cc/index.m3u8
-#EXTINF:0,Cine Premiere
+#EXTINF:-1 tvg-id="pluto-5cf968040ab7d8f181e6a68b" tvg-name="Cine Premiere" group-title="Pluto TV",Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
-#EXTINF:0,Cine terror
+#EXTINF:-1 tvg-id="pluto-5d8d180092e97a5e107638d3" tvg-name="Cine terror" group-title="Pluto TV",Cine terror
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
-#EXTINF:0,CSI en Español
+#EXTINF:-1 tvg-id="pluto-604928d54a4f730007ff76bc" tvg-name="CSI en Español" group-title="Pluto TV",CSI en Español
 https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
-#EXTINF:0,Misterios sin resolver
+#EXTINF:-1 tvg-id="pluto-5f4d882d5233170007ee880e" tvg-name="Misterios sin resolver" group-title="Pluto TV",Misterios sin resolver
 https://jmp2.uk/plu-5f4d882d5233170007ee880e.m3u8
-#EXTINF:0,Acapulco Shore
+#EXTINF:-1 tvg-id="pluto-64dab1f835425100080e1e7b" tvg-name="Acapulco Shore" group-title="Pluto TV",Acapulco Shore
 https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
-#EXTINF:0,Drag Race Pluto TV
+#EXTINF:-1 tvg-id="pluto-5ce5a8954311f992edbe1da2" tvg-name="Drag Race Pluto TV" group-title="Pluto TV",Drag Race Pluto TV
 https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
-#EXTINF:0,ADN 40 (720p)
+#EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40 (720p)" group-title="General",ADN 40 (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:0,Estrella News
+#EXTINF:-1 tvg-id="EstrellaNews" tvg-name="Estrella News" group-title="General",Estrella News
 https://estrellanews-samsung-us.amagi.tv/playlist1080p.m3u8
-#EXTINF:0,Las Estrellas
+#EXTINF:-1 tvg-id="LasEstrellas" tvg-name="Las Estrellas" group-title="General",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
-#EXTINF:0,TVP Mazatlán (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPMazatlan" tvg-name="TVP Mazatlán (720p)" group-title="General",TVP Mazatlán (720p)
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:0,TVP Los Mochis (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPLosMochis" tvg-name="TVP Los Mochis (720p)" group-title="General",TVP Los Mochis (720p)
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
-#EXTINF:0,Telemax (XEWH-TDT) (1080p)
+#EXTINF:-1 tvg-id="TelemaxXEWHTDT" tvg-name="Telemax (XEWH-TDT) (1080p)" group-title="General",Telemax (XEWH-TDT) (1080p)
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
-#EXTINF:0,TVP Obregón (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPObregon" tvg-name="TVP Obregón (720p)" group-title="General",TVP Obregón (720p)
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
-#EXTINF:0,A+
+#EXTINF:-1 tvg-id="A" tvg-name="A+" group-title="General",A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:0,TeleFórmula (720p)
+#EXTINF:-1 tvg-id="TeleFormula" tvg-name="TeleFórmula (720p)" group-title="General",TeleFórmula (720p)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:0,Azteca Internacional (1080p)
+#EXTINF:-1 tvg-id="AztecaInternacional" tvg-name="Azteca Internacional (1080p)" group-title="General",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:0,TVE Internacional America (1080p)
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica" tvg-name="TVE Internacional America (1080p)" group-title="General",TVE Internacional America (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
-#EXTINF:0,Latina
+#EXTINF:-1 tvg-id="Latina" tvg-name="Latina" group-title="General",Latina
 https://jireh-9-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b26855869e192dbb546d&sid=ba5t1l1xb2209352846369e1932eb5884&ndvc=0
-#EXTINF:0,Multimedios CDMX (720p)
+#EXTINF:-1 tvg-id="MultimediosCDMX" tvg-name="Multimedios CDMX (720p)" group-title="General",Multimedios CDMX (720p)
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:0,Estrella Games (1080p)
+#EXTINF:-1 tvg-id="EstrellaGames" tvg-name="Estrella Games (1080p)" group-title="General",Estrella Games (1080p)
 https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8
-#EXTINF:0,WKAQ-DT1 🇵🇷(Telemundo PR) (1080p)
+#EXTINF:-1 tvg-id="WKAQDT1TelemundoPR" tvg-name="WKAQ-DT1 (Telemundo PR) (1080p)" group-title="General",WKAQ-DT1 (Telemundo PR) (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:0,TeleOnce (1080p)
+#EXTINF:-1 tvg-id="TeleOnce" tvg-name="TeleOnce (1080p)" group-title="General",TeleOnce (1080p)
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
-#EXTINF:0,TV Cuatro 4.1 (1080p)
+#EXTINF:-1 tvg-id="TVCuatro41" tvg-name="TV Cuatro 4.1 (1080p)" group-title="General",TV Cuatro 4.1 (1080p)
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:0,Marka TV (720p)
+#EXTINF:-1 tvg-id="MarkaTV" tvg-name="Marka TV (720p)" group-title="General",Marka TV (720p)
 https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
-#EXTINF:0,Made in Hollywood
+#EXTINF:-1 tvg-id="MadeinHollywood" tvg-name="Made in Hollywood" group-title="General",Made in Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/3000.m3u8
-#EXTINF:0,Venevisión Internacional (720p)
+#EXTINF:-1 tvg-id="VenevisionInternacional" tvg-name="Venevisión Internacional (720p)" group-title="General",Venevisión Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-#EXTINF:0,90s Throwback
+#EXTINF:-1 tvg-id="pluto-5f4d86f519358a00072b978e" tvg-name="90s Throwback" group-title="Pluto TV",90s Throwback
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
-#EXTINF:0,80s Rewind
+#EXTINF:-1 tvg-id="pluto-5ca525b650be2571e3943c63" tvg-name="80s Rewind" group-title="Pluto TV",80s Rewind
 https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
-#EXTINF:0,70s Cinema
+#EXTINF:-1 tvg-id="pluto-5f4d878d3d19b30007d2e782" tvg-name="70s Cinema" group-title="Pluto TV",70s Cinema
 https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
-#EXTINF:0,MovieSphere US (1080p)
+#EXTINF:-1 tvg-id="MovieSphereUS" tvg-name="MovieSphere US (1080p)" group-title="General",MovieSphere US (1080p)
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
-#EXTINF:0,VClassicTV
+#EXTINF:-1 tvg-id="VClassicTV" tvg-name="VClassicTV" group-title="General",VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:0,MovieSphere UK (1080p)
+#EXTINF:-1 tvg-id="MovieSphereUK" tvg-name="MovieSphere UK (1080p)" group-title="General",MovieSphere UK (1080p)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:30,TeleClasica🇲🇽
+#EXTINF:-1 tvg-id="TeleClasica_2" tvg-name="TeleClasica" group-title="General",TeleClasica
 https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8?hls_ctx=00w6s90j
-#EXTINF:0,Rock Antenne [Not 24/7]
+#EXTINF:-1 tvg-id="RockAntenne" tvg-name="Rock Antenne" group-title="General",Rock Antenne
 https://stream.rockantenne.de/rockantenne/stream/mp3
-#EXTINF:29,MegaCineTV🇩🇴
+#EXTINF:-1 tvg-id="MegaCineTV_2" tvg-name="MegaCineTV" group-title="General",MegaCineTV
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-#EXTINF:30,Boreal🇩🇴
+#EXTINF:-1 tvg-id="Boreal" tvg-name="Boreal" group-title="General",Boreal
 https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
-#EXTINF:30,MiTVClasica🇲🇽
+#EXTINF:-1 tvg-id="MiTVClasica" tvg-name="MiTVClasica" group-title="General",MiTVClasica
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
-#EXTINF:0,Comedy Central en español
+#EXTINF:-1 tvg-id="pluto-5cf96dad1652631e36d43320" tvg-name="Comedy Central en español" group-title="Pluto TV",Comedy Central en español
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
-#EXTINF:30,LaCaletaTV🇩🇴
+#EXTINF:-1 tvg-id="LaCaletaTV" tvg-name="LaCaletaTV" group-title="General",LaCaletaTV
 https://edge.essastream.com/lacaletatv/tracks-v1a1/mono.m3u8
-#EXTINF:30,LatinaTV🇩🇴
+#EXTINF:-1 tvg-id="LatinaTV" tvg-name="LatinaTV" group-title="General",LatinaTV
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist_w2026659788.m3u8
-#EXTINF:30,ManclarTV🇩🇴
+#EXTINF:-1 tvg-id="ManclarTV" tvg-name="ManclarTV" group-title="General",ManclarTV
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/chunklist_w1203365815.m3u8
-#EXTINF:30,Microvision🇩🇴
+#EXTINF:-1 tvg-id="Microvision_2" tvg-name="Microvision" group-title="General",Microvision
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w948657062.m3u8
-#EXTINF:30,OndaTV🇩🇴
+#EXTINF:-1 tvg-id="OndaTV" tvg-name="OndaTV" group-title="General",OndaTV
 https://cnn.hostlagarto.com/ondatv/tracks-v1a1/mono.m3u8
-#EXTINF:30,OrbitTV🇩🇴
+#EXTINF:-1 tvg-id="OrbitTV" tvg-name="OrbitTV" group-title="General",OrbitTV
 https://edge.essastream.com/orbittv/tracks-v1a1/mono.m3u8
-#EXTINF:30,TelemaxRD🇩🇴
+#EXTINF:-1 tvg-id="TelemaxRD" tvg-name="TelemaxRD" group-title="General",TelemaxRD
 https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
-#EXTINF:30,PuntoTvDigital🇩🇴
+#EXTINF:-1 tvg-id="PuntoTvDigital" tvg-name="PuntoTvDigital" group-title="General",PuntoTvDigital
 https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/chunklist_w954965962.m3u8
-#EXTINF:30,DePeliculaUS🇲🇽
+#EXTINF:-1 tvg-id="DePeliculaUS" tvg-name="DePeliculaUS" group-title="General",DePeliculaUS
 http://138.121.15.230:9002/DEPELICULA/index.m3u8
-#EXTINF:30,PopcornCentral🇲🇽
+#EXTINF:-1 tvg-id="PopcornCentral" tvg-name="PopcornCentral" group-title="General",PopcornCentral
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc_720.m3u8
-#EXTINF:30,DreamWorks🇲🇽
+#EXTINF:-1 tvg-id="DreamWorks" tvg-name="DreamWorks" group-title="General",DreamWorks
 http://138.121.15.230:9002/DREAMWORKS/index.m3u8
-#EXTINF:22,A&E Latin America (1080p)
+#EXTINF:-1 tvg-id="AELatinAmerica" tvg-name="A&E Latin America (1080p)" group-title="General",A&E Latin America (1080p)
 http://138.121.15.230:9002/A&E/index.m3u8
-#EXTINF:27,Acapulco Shore Pluto TV
+#EXTINF:-1 tvg-id="pluto-61a52615cbef2500072876e2" tvg-name="Acapulco Shore Pluto TV" group-title="Pluto TV",Acapulco Shore Pluto TV
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
-#EXTINF:25,Adrenalina Pura TV (720p)
+#EXTINF:-1 tvg-id="pluto-61b793ccf571b80007b7a610" tvg-name="Adrenalina Pura TV (720p)" group-title="Pluto TV",Adrenalina Pura TV (720p)
 https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
-#EXTINF:25,Archivos Forenses
+#EXTINF:-1 tvg-id="pluto-5f984f4a09e92d0007d74647" tvg-name="Archivos Forenses" group-title="Pluto TV",Archivos Forenses
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
-#EXTINF:36,Argentinísima Satelital (540p)
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital" tvg-name="Argentinísima Satelital (540p)" group-title="General",Argentinísima Satelital (540p)
 https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:30,DWEspanol🇲🇽
+#EXTINF:-1 tvg-id="DWEspanol" tvg-name="DWEspanol" group-title="General",DWEspanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:21,AXN Latin America (1080p)
+#EXTINF:-1 tvg-id="AXNLatinAmerica" tvg-name="AXN Latin America (1080p)" group-title="General",AXN Latin America (1080p)
 http://138.121.15.230:9002/AXN/index.m3u8
-#EXTINF:25,Avatar: La Leyenda de Aang
+#EXTINF:-1 tvg-id="pluto-6759ee82bd523200083b4f0f" tvg-name="Avatar: La Leyenda de Aang" group-title="Pluto TV",Avatar: La Leyenda de Aang
 https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
-#EXTINF:102,Azteca Honduras (720p)
+#EXTINF:-1 tvg-id="AztecaHonduras" tvg-name="Azteca Honduras (720p)" group-title="General",Azteca Honduras (720p)
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
-#EXTINF:25,Comedy Central
+#EXTINF:-1 tvg-id="pluto-68de3db35fc0afe85de0b843" tvg-name="Comedy Central" group-title="Pluto TV",Comedy Central
 https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
-#EXTINF:0,Comedy Central Pluto TV
+#EXTINF:-1 tvg-id="pluto-5ffcc21a432945000762d06b" tvg-name="Comedy Central Pluto TV" group-title="Pluto TV",Comedy Central Pluto TV
 https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
-#EXTINF:25,E! Latin America Mexico (720p)
+#EXTINF:-1 tvg-id="ELatinAmericaMexico" tvg-name="E! Latin America Mexico (720p)" group-title="General",E! Latin America Mexico (720p)
 http://72.1.184.5:8089/play/a05d/index.m3u8
-#EXTINF:0,Comedy Central South Park
+#EXTINF:-1 tvg-id="pluto-609ae5cd48d3200007b0a98e" tvg-name="Comedy Central South Park" group-title="Pluto TV",Comedy Central South Park
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
-#EXTINF:25,Concert Channel (720p)
+#EXTINF:-1 tvg-id="pluto-6868152657543d1f8be4ece3" tvg-name="Concert Channel (720p)" group-title="Pluto TV",Concert Channel (720p)
 https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
-#EXTINF:0,CSI: Miami
+#EXTINF:-1 tvg-id="pluto-63eb9255c111bc0008fe6ec4" tvg-name="CSI: Miami" group-title="Pluto TV",CSI: Miami
 https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
-#EXTINF:60,Estrella News (1080p)
+#EXTINF:-1 tvg-id="EstrellaNews_2" tvg-name="Estrella News (1080p)" group-title="General",Estrella News (1080p)
 https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:13,Foro TV
+#EXTINF:-1 tvg-id="ForoTV" tvg-name="Foro TV" group-title="General",Foro TV
 https://mc.servidor.stream:19360/8274/8274.m3u8
-#EXTINF:60,Estrella TV (1080p)
+#EXTINF:-1 tvg-id="EstrellaTV" tvg-name="Estrella TV (1080p)" group-title="General",Estrella TV (1080p)
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:25,Estrellas de Acción
+#EXTINF:-1 tvg-id="pluto-5e972a21ad709d00074195ba" tvg-name="Estrellas de Acción" group-title="Pluto TV",Estrellas de Acción
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
-#EXTINF:24,FX (720p)
+#EXTINF:-1 tvg-id="FX" tvg-name="FX (720p)" group-title="General",FX (720p)
 http://138.121.15.230:9002/FX/index.m3u8
-#EXTINF:23,History Latin America (1080p)
+#EXTINF:-1 tvg-id="HistoryLatinAmerica" tvg-name="History Latin America (1080p)" group-title="General",History Latin America (1080p)
 http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
-#EXTINF:25,Forensic Files
+#EXTINF:-1 tvg-id="pluto-62e92392a3e6270007f562e8" tvg-name="Forensic Files" group-title="Pluto TV",Forensic Files
 https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
-#EXTINF:75,Imagen Universal TV
+#EXTINF:-1 tvg-id="ImagenUniversalTV" tvg-name="Imagen Universal TV" group-title="General",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:114,Imagen TV (1080p)
+#EXTINF:-1 tvg-id="ImagenTV" tvg-name="Imagen TV (1080p)" group-title="General",Imagen TV (1080p)
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
-#EXTINF:30,Impact Channel
+#EXTINF:-1 tvg-id="ImpactChannel" tvg-name="Impact Channel" group-title="General",Impact Channel
 https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
-#EXTINF:23,History 2 Latin America (1080p)
+#EXTINF:-1 tvg-id="History2LatinAmerica" tvg-name="History 2 Latin America (1080p)" group-title="General",History 2 Latin America (1080p)
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
-#EXTINF:24, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entretenimiento" - Las Estrellas Latin America (1080p)
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica" tvg-name="Las Estrellas Latin America (1080p)" group-title="Entretenimiento",Las Estrellas Latin America (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
-#EXTINF:26,Impacto Televisión (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="ImpactoTelevision" tvg-name="Impacto Televisión (360p)" group-title="General",Impacto Televisión (360p)
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:65,Latacunga TV (360p)
+#EXTINF:-1 tvg-id="LatacungaTV" tvg-name="Latacunga TV (360p)" group-title="General",Latacunga TV (360p)
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
-#EXTINF:30,Las Estrellas (1080p)
+#EXTINF:-1 tvg-id="LasEstrellas_2" tvg-name="Las Estrellas (1080p)" group-title="General",Las Estrellas (1080p)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:30,Latele (1080p)
+#EXTINF:-1 tvg-id="Latele" tvg-name="Latele (1080p)" group-title="General",Latele (1080p)
 #EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:100,Latina (1080p)
+#EXTINF:-1 tvg-id="Latina_2" tvg-name="Latina (1080p)" group-title="General",Latina (1080p)
 https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
-#EXTINF:25,Latina Noticias 24/7 (720p)
+#EXTINF:-1 tvg-id="LatinaNoticias247" tvg-name="Latina Noticias 24/7 (720p)" group-title="General",Latina Noticias 24/7 (720p)
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
-#EXTINF:50,Latina Clasicos (1080p)
+#EXTINF:-1 tvg-id="LatinaClasicos" tvg-name="Latina Clasicos (1080p)" group-title="General",Latina Clasicos (1080p)
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
-#EXTINF:25,Los archivos del FBI
+#EXTINF:-1 tvg-id="pluto-5f1acbed25948a0007ffbe65" tvg-name="Los archivos del FBI" group-title="Pluto TV",Los archivos del FBI
 https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8
-#EXTINF:0,Los Asesinatos de Midsomer
+#EXTINF:-1 tvg-id="pluto-5f1aca8310a30e00074fab92" tvg-name="Los Asesinatos de Midsomer" group-title="Pluto TV",Los Asesinatos de Midsomer
 https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
-#EXTINF:0,Los nuevos detectives
+#EXTINF:-1 tvg-id="pluto-5f1acba0d1f6340007db8843" tvg-name="Los nuevos detectives" group-title="Pluto TV",Los nuevos detectives
 https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8
-#EXTINF:642,Mega (1080p)
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega (1080p)" group-title="General",Mega (1080p)
 http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:40,Metaleitor TV
+#EXTINF:-1 tvg-id="MetaleitorTV" tvg-name="Metaleitor TV" group-title="General",Metaleitor TV
 https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
-#EXTINF:31,Mexiquense TV (720p)
+#EXTINF:-1 tvg-id="MexiquenseTV" tvg-name="Mexiquense TV (720p)" group-title="General",Mexiquense TV (720p)
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:10,Microvision 10 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Microvision10" tvg-name="Microvision 10 (720p)" group-title="General",Microvision 10 (720p)
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
-#EXTINF:25,Shore
+#EXTINF:-1 tvg-id="pluto-5f1aadf373bed3000794d1d7" tvg-name="Shore" group-title="Pluto TV",Shore
 https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
-#EXTINF:25,MTV Jerseys
+#EXTINF:-1 tvg-id="pluto-62ac3d7dc23b400008ae5b5a" tvg-name="MTV Jerseys" group-title="Pluto TV",MTV Jerseys
 https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8
-#EXTINF:25,MTV Reality (720p)
+#EXTINF:-1 tvg-id="pluto-6130d8dc943001000708548d" tvg-name="MTV Reality (720p)" group-title="Pluto TV",MTV Reality (720p)
 https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8
-#EXTINF:25,MTV Reality (720p)
+#EXTINF:-1 tvg-id="pluto-5de91b7ea86ee60009d89e75" tvg-name="MTV Reality (720p)" group-title="Pluto TV",MTV Reality (720p)
 https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
-#EXTINF:25,MTV Rocks
+#EXTINF:-1 tvg-id="pluto-66a01b52a4ee27000808ea36" tvg-name="MTV Rocks" group-title="Pluto TV",MTV Rocks
 https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
-#EXTINF:25,MTV Ridiculousness (720p)
+#EXTINF:-1 tvg-id="pluto-5e98a911c881310007d7aae2" tvg-name="MTV Ridiculousness (720p)" group-title="Pluto TV",MTV Ridiculousness (720p)
 https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
-#EXTINF:25,Paramount Network de Pluto TV
+#EXTINF:-1 tvg-id="pluto-68d566603d3a9580eb461251" tvg-name="Paramount Network de Pluto TV" group-title="Pluto TV",Paramount Network de Pluto TV
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
-#EXTINF:25,Pluto TV A La Mexicana
+#EXTINF:-1 tvg-id="pluto-5dfcde52d28b09000a42d7a2" tvg-name="Pluto TV A La Mexicana" group-title="Pluto TV",Pluto TV A La Mexicana
 https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
-#EXTINF:25,Pluto TV Amor y Mentiras
+#EXTINF:-1 tvg-id="pluto-698a45156dc3c71eb1ba6599" tvg-name="Pluto TV Amor y Mentiras" group-title="Pluto TV",Pluto TV Amor y Mentiras
 https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
-#EXTINF:25,Pluto Documentales
+#EXTINF:-1 tvg-id="pluto-600ae6a78d801e0007117d21" tvg-name="Pluto Documentales" group-title="Pluto TV",Pluto Documentales
 https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
-#EXTINF:25,Pluto TV Aventura
+#EXTINF:-1 tvg-id="pluto-5ddc266f80e3550009136843" tvg-name="Pluto TV Aventura" group-title="Pluto TV",Pluto TV Aventura
 https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
-#EXTINF:25,Pluto TV Catástrofes
+#EXTINF:-1 tvg-id="pluto-645a309c5a0cd5000873f609" tvg-name="Pluto TV Catástrofes" group-title="Pluto TV",Pluto TV Catástrofes
 https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
-#EXTINF:25,Pluto TV Cine Acción
+#EXTINF:-1 tvg-id="pluto-5f1ac2591dd8880007bb7d6d" tvg-name="Pluto TV Cine Acción" group-title="Pluto TV",Pluto TV Cine Acción
 https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
-#EXTINF:0,Pluto TV Cine Clásico
+#EXTINF:-1 tvg-id="pluto-61373bb45168fe000773eecd" tvg-name="Pluto TV Cine Clásico" group-title="Pluto TV",Pluto TV Cine Clásico
 https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
-#EXTINF:25,Pluto TV Cine Acción
+#EXTINF:-1 tvg-id="pluto-5dcb62e63d4d8f0009f36881" tvg-name="Pluto TV Cine Acción" group-title="Pluto TV",Pluto TV Cine Acción
 https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
-#EXTINF:0,Pluto TV Cine Clásico
+#EXTINF:-1 tvg-id="pluto-609059dc63be6e0007b4eca6" tvg-name="Pluto TV Cine Clásico" group-title="Pluto TV",Pluto TV Cine Clásico
 https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8
-#EXTINF:0,Pluto TV Cine Comedia
+#EXTINF:-1 tvg-id="pluto-5f1ac8099c49f600076579b2" tvg-name="Pluto TV Cine Comedia" group-title="Pluto TV",Pluto TV Cine Comedia
 https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
-#EXTINF:0,Pluto TV Cine Crimen
+#EXTINF:-1 tvg-id="pluto-624af40c004f8000079b784d" tvg-name="Pluto TV Cine Crimen" group-title="Pluto TV",Pluto TV Cine Crimen
 https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
-#EXTINF:0,Pluto TV Cine Comedia
+#EXTINF:-1 tvg-id="pluto-5dcdde78f080d900098550e4" tvg-name="Pluto TV Cine Comedia" group-title="Pluto TV",Pluto TV Cine Comedia
 https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
-#EXTINF:0,Pluto TV Cine de autor
+#EXTINF:-1 tvg-id="pluto-60cc807324d60a0007708dc8" tvg-name="Pluto TV Cine de autor" group-title="Pluto TV",Pluto TV Cine de autor
 https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
-#EXTINF:0,Pluto TV Cine Drama
+#EXTINF:-1 tvg-id="pluto-5f1ac947dcd00d0007937c08" tvg-name="Pluto TV Cine Drama" group-title="Pluto TV",Pluto TV Cine Drama
 https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
-#EXTINF:0,Pluto TV Cine Drama
+#EXTINF:-1 tvg-id="pluto-5dcddfcb229eff00091b6bdf" tvg-name="Pluto TV Cine Drama" group-title="Pluto TV",Pluto TV Cine Drama
 https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
-#EXTINF:0,Pluto TV Cine Estelar
+#EXTINF:-1 tvg-id="pluto-5f1ac1f1b66c76000790ef27" tvg-name="Pluto TV Cine Estelar" group-title="Pluto TV",Pluto TV Cine Estelar
 https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
-#EXTINF:0,Pluto TV Cine Estelar
+#EXTINF:-1 tvg-id="pluto-5dcde437229eff00091b6c30" tvg-name="Pluto TV Cine Estelar" group-title="Pluto TV",Pluto TV Cine Estelar
 https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
-#EXTINF:0,Pluto TV Cine Familia
+#EXTINF:-1 tvg-id="pluto-5dd6ddb30a1d8a000908ed4c" tvg-name="Pluto TV Cine Familia" group-title="Pluto TV",Pluto TV Cine Familia
 https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
-#EXTINF:0,Pluto TV Cine Inspirador
+#EXTINF:-1 tvg-id="pluto-6806d519fea7414f33f57016" tvg-name="Pluto TV Cine Inspirador" group-title="Pluto TV",Pluto TV Cine Inspirador
 https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
-#EXTINF:0,Pluto TV Cine Romance
+#EXTINF:-1 tvg-id="pluto-5dd7ea2aeab5230009986735" tvg-name="Pluto TV Cine Romance" group-title="Pluto TV",Pluto TV Cine Romance
 https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
-#EXTINF:0,Pluto TV Cine Romántico
+#EXTINF:-1 tvg-id="pluto-5f1ac9a2d3611d0007a844bb" tvg-name="Pluto TV Cine Romántico" group-title="Pluto TV",Pluto TV Cine Romántico
 https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
-#EXTINF:0,Pluto TV Cine Suspenso
+#EXTINF:-1 tvg-id="pluto-5ddc4e8bcbb9010009b4e84f" tvg-name="Pluto TV Cine Suspenso" group-title="Pluto TV",Pluto TV Cine Suspenso
 https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
-#EXTINF:0,Pluto TV Cine Terror
+#EXTINF:-1 tvg-id="pluto-5dcddf1ed95e740009fef7ab" tvg-name="Pluto TV Cine Terror" group-title="Pluto TV",Pluto TV Cine Terror
 https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
-#EXTINF:0,Pluto TV Cocina
+#EXTINF:-1 tvg-id="pluto-5f1acdaa8ba90f0007d5e760" tvg-name="Pluto TV Cocina" group-title="Pluto TV",Pluto TV Cocina
 https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
-#EXTINF:0,Pluto TV Comedia made in Spain
+#EXTINF:-1 tvg-id="pluto-5f1abce155a03d0007718834" tvg-name="Pluto TV Comedia made in Spain" group-title="Pluto TV",Pluto TV Comedia made in Spain
 https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
-#EXTINF:0,Pluto TV Comedias Románticas
+#EXTINF:-1 tvg-id="pluto-655b5d865812e80008843bd1" tvg-name="Pluto TV Comedias Románticas" group-title="Pluto TV",Pluto TV Comedias Románticas
 https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
-#EXTINF:0,Pluto TV Documentales
+#EXTINF:-1 tvg-id="pluto-5ddc503ac7ef120009b101a2" tvg-name="Pluto TV Documentales" group-title="Pluto TV",Pluto TV Documentales
 https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
-#EXTINF:0,Pluto TV Estilo de Vida
+#EXTINF:-1 tvg-id="pluto-5dcde0657444a40009cd2422" tvg-name="Pluto TV Estilo de Vida" group-title="Pluto TV",Pluto TV Estilo de Vida
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
-#EXTINF:0,Pluto TV Gore & Slasher
+#EXTINF:-1 tvg-id="pluto-66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" group-title="Pluto TV",Pluto TV Gore & Slasher
 https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
-#EXTINF:0,Pluto TV Historia (720p)
+#EXTINF:-1 tvg-id="pluto-61cd7b49543066000713b620" tvg-name="Pluto TV Historia (720p)" group-title="Pluto TV",Pluto TV Historia (720p)
 https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
-#EXTINF:0,Pluto TV Historia
+#EXTINF:-1 tvg-id="pluto-5de5758e1a30dc00094fcd6c" tvg-name="Pluto TV Historia" group-title="Pluto TV",Pluto TV Historia
 https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
-#EXTINF:0,Pluto TV Horror
+#EXTINF:-1 tvg-id="pluto-6267d4d1fb694f0007a6af0e" tvg-name="Pluto TV Horror" group-title="Pluto TV",Pluto TV Horror
 https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
-#EXTINF:0,Pluto TV Humor
+#EXTINF:-1 tvg-id="pluto-5e8397936791b30007ebb5a7" tvg-name="Pluto TV Humor" group-title="Pluto TV",Pluto TV Humor
 https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8
-#EXTINF:0,Pluto TV Impacto
+#EXTINF:-1 tvg-id="pluto-68adc697116b783a33f99e6c" tvg-name="Pluto TV Impacto" group-title="Pluto TV",Pluto TV Impacto
 https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8
-#EXTINF:0,Pluto TV Invasión Alien
+#EXTINF:-1 tvg-id="pluto-654a35ce346f420008d5c36e" tvg-name="Pluto TV Invasión Alien" group-title="Pluto TV",Pluto TV Invasión Alien
 https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
-#EXTINF:0,Pluto TV Investiga
+#EXTINF:-1 tvg-id="pluto-5dcde27ffae9520009c0c75a" tvg-name="Pluto TV Investiga" group-title="Pluto TV",Pluto TV Investiga
 https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
-#EXTINF:0,Pluto TV Novelas de México
+#EXTINF:-1 tvg-id="pluto-6474a7958e3c0a0008b97cae" tvg-name="Pluto TV Novelas de México" group-title="Pluto TV",Pluto TV Novelas de México
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
-#EXTINF:0,Pluto TV Nuestro Cine
+#EXTINF:-1 tvg-id="pluto-5defde6d6c07b50009cf0757" tvg-name="Pluto TV Nuestro Cine" group-title="Pluto TV",Pluto TV Nuestro Cine
 https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
-#EXTINF:0,Pluto TV Sci-Fi
+#EXTINF:-1 tvg-id="pluto-5f6a38eaa5b68b0007a00e7a" tvg-name="Pluto TV Sci-Fi" group-title="Pluto TV",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
-#EXTINF:0,Pluto TV Sci-Fi
+#EXTINF:-1 tvg-id="pluto-5f2817d3d7573a00080f9175" tvg-name="Pluto TV Sci-Fi" group-title="Pluto TV",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
-#EXTINF:0,Pluto TV Sci-Fi
+#EXTINF:-1 tvg-id="pluto-5b4fc274694c027be6ed3eea" tvg-name="Pluto TV Sci-Fi" group-title="Pluto TV",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
-#EXTINF:0,Pluto TV Series
+#EXTINF:-1 tvg-id="pluto-5dcde1317578340009b751d0" tvg-name="Pluto TV Series" group-title="Pluto TV",Pluto TV Series
 https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
-#EXTINF:0,Pluto TV Series criminales
+#EXTINF:-1 tvg-id="pluto-65cf6ab58145cb0008129ca8" tvg-name="Pluto TV Series criminales" group-title="Pluto TV",Pluto TV Series criminales
 https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
-#EXTINF:0,Pluto TV Series de Crimen
+#EXTINF:-1 tvg-id="pluto-655f62ff954b020008c91ec6" tvg-name="Pluto TV Series de Crimen" group-title="Pluto TV",Pluto TV Series de Crimen
 https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
-#EXTINF:0,Pluto TV Series de Acción
+#EXTINF:-1 tvg-id="pluto-6479ff1c17f5e10008ad2797" tvg-name="Pluto TV Series de Acción" group-title="Pluto TV",Pluto TV Series de Acción
 https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
-#EXTINF:0,Pluto TV Series de Comedia
+#EXTINF:-1 tvg-id="pluto-655f626d57fe4a00085c7c3e" tvg-name="Pluto TV Series de Comedia" group-title="Pluto TV",Pluto TV Series de Comedia
 https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
-#EXTINF:0,Pluto TV Series de Drama
+#EXTINF:-1 tvg-id="pluto-655f636d954b020008c93299" tvg-name="Pluto TV Series de Drama" group-title="Pluto TV",Pluto TV Series de Drama
 https://jmp2.uk/plu-655f636d954b020008c93299.m3u8
-#EXTINF:0,Pluto TV Series de Sci-Fi
+#EXTINF:-1 tvg-id="pluto-65662f8a2c46f300088a84cc" tvg-name="Pluto TV Series de Sci-Fi" group-title="Pluto TV",Pluto TV Series de Sci-Fi
 https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
-#EXTINF:0,Pluto TV Series Latinas
+#EXTINF:-1 tvg-id="pluto-5dd837642c6e9300098ad484" tvg-name="Pluto TV Series Latinas" group-title="Pluto TV",Pluto TV Series Latinas
 https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
-#EXTINF:0,Pluto TV Series de Otros Continentes
+#EXTINF:-1 tvg-id="pluto-6806d570c178637410ae4962" tvg-name="Pluto TV Series de Otros Continentes" group-title="Pluto TV",Pluto TV Series de Otros Continentes
 https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8
-#EXTINF:0,Pluto TV Series Retro
+#EXTINF:-1 tvg-id="pluto-5de802659167b10009e7deba" tvg-name="Pluto TV Series Retro" group-title="Pluto TV",Pluto TV Series Retro
 https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
-#EXTINF:0,Pluto TV Series Sci-Fi
+#EXTINF:-1 tvg-id="pluto-65ddec1ef7f0af0008be4b65" tvg-name="Pluto TV Series Sci-Fi" group-title="Pluto TV",Pluto TV Series Sci-Fi
 https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
-#EXTINF:0,Pluto TV Star Trek
+#EXTINF:-1 tvg-id="pluto-5ec5761aabe4690007f6e047" tvg-name="Pluto TV Star Trek" group-title="Pluto TV",Pluto TV Star Trek
 https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
-#EXTINF:0,Pluto TV True Crime
+#EXTINF:-1 tvg-id="pluto-64a3f200f238ce0008d47247" tvg-name="Pluto TV True Crime" group-title="Pluto TV",Pluto TV True Crime
 https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8
-#EXTINF:0,Pluto TV Thrillers
+#EXTINF:-1 tvg-id="pluto-5f1ac8a87cd38d000745d7cf" tvg-name="Pluto TV Thrillers" group-title="Pluto TV",Pluto TV Thrillers
 https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
-#EXTINF:81,Retromusica Television (720p)
+#EXTINF:-1 tvg-id="RetromusicaTelevision" tvg-name="Retromusica Television (720p)" group-title="General",Retromusica Television (720p)
 https://vdochile.com:3864/stream/play.m3u8
-#EXTINF:60,Popcorn Central (1080p)
+#EXTINF:-1 tvg-id="PopcornCentral_2" tvg-name="Popcorn Central (1080p)" group-title="General",Popcorn Central (1080p)
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
-#EXTINF:60,Siscom TV
+#EXTINF:-1 tvg-id="SiscomTV" tvg-name="Siscom TV" group-title="General",Siscom TV
 https://video2.lhdserver.es/siscomtv/live.m3u8
-#EXTINF:0,Pluto TV Zombies
+#EXTINF:-1 tvg-id="pluto-65786888b228b7000843ad9a" tvg-name="Pluto TV Zombies" group-title="Pluto TV",Pluto TV Zombies
 https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
-#EXTINF:23,Sony Channel (1080p)
+#EXTINF:-1 tvg-id="SonyChannel" tvg-name="Sony Channel (1080p)" group-title="General",Sony Channel (1080p)
 http://138.121.15.230:9002/SONY/index.m3u8
-#EXTINF:24, like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="premium" - Star Channel Latin America (1080i)
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica" tvg-name="Star Channel Latin America (1080i)" group-title="premium",Star Channel Latin America (1080i)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
-#EXTINF:25,SensaCine TV x Pluto
+#EXTINF:-1 tvg-id="pluto-676e7b4a4bd636000819c6a7" tvg-name="SensaCine TV x Pluto" group-title="Pluto TV",SensaCine TV x Pluto
 https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
-#EXTINF:48,Series Clasicas
+#EXTINF:-1 tvg-id="SeriesClasicas" tvg-name="Series Clasicas" group-title="General",Series Clasicas
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
-#EXTINF:22,Star Channel (720p)
+#EXTINF:-1 tvg-id="StarChannel" tvg-name="Star Channel (720p)" group-title="General",Star Channel (720p)
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
-#EXTINF:23,Universal TV Latin America (1080p)
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica" tvg-name="Universal TV Latin America (1080p)" group-title="General",Universal TV Latin America (1080p)
 http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
-#EXTINF:0,TVP Culiacán (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPCuliacan" tvg-name="TVP Culiacán (720p)" group-title="General",TVP Culiacán (720p)
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:30,Telemax
+#EXTINF:-1 tvg-id="Telemax" tvg-name="Telemax" group-title="General",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-#EXTINF:0,Xtrema Cartoons
+#EXTINF:-1 tvg-id="XtremaCartoons" tvg-name="Xtrema Cartoons" group-title="General",Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:0,Xtrema Cine Clasico
+#EXTINF:-1 tvg-id="XtremaCineClasico" tvg-name="Xtrema Cine Clasico" group-title="General",Xtrema Cine Clasico
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1460
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
-#EXTINF:0,Xtrema Terror
+#EXTINF:-1 tvg-id="XtremaTerror" tvg-name="Xtrema Terror" group-title="General",Xtrema Terror
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
-#EXTINF:24,Studio Universal Latin America (1080p)
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica" tvg-name="Studio Universal Latin America (1080p)" group-title="General",Studio Universal Latin America (1080p)
 http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
-#EXTINF:24,Yuma AZ CH 72 (1080p)
+#EXTINF:-1 tvg-id="YumaAZCH72" tvg-name="Yuma AZ CH 72 (1080p)" group-title="General",Yuma AZ CH 72 (1080p)
 https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
