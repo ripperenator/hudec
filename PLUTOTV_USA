@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-khxqhnjuca.xml"
 #EXTINF:-1 tvg-id="ORBITTV" tvg-name="ORBIT TV" tvg-logo="https://i.imgur.com/g81rbY9.png" group-title="Peliculas",ORBIT TV
 https://edge.essastream.com/orbittv/index.m3u8
